@@ -1,0 +1,2 @@
+FW_n,MF_n,FW_mean,MF_mean,t_statistic,p_value,alpha,decision
+5,8,1.558,0.3075,1.3575838599748593,0.24184967267541643,0.05,Fail to reject H0
