@@ -45,6 +45,10 @@ python  task1_analysis.py # run the actual analysis code
 
 # output will be available on output folder of task1 directory
 ```
+## Results of Task 1
+This project analyses whether there was a significant difference in attacking performance between Argentina’s forwards and midfielders at the 2026 FIFA World Cup. Player statistics were obtained from FBref and cleaned using Python. Players were filtered to include only clear FW and MF positions, with zero-playing-time and ambiguous-position records excluded. The final analysis dataset contained **13 players: 5 forwards and 8 midfielders**.
+
+Attacking performance was measured using **goal contributions per 90 minutes (G+A/90)**. Forwards had a higher mean (**1.558**) than midfielders (**0.308**), but the Welch two-sample t-test produced **t = 1.358** and **p = 0.2418**. Since p > 0.05, the null hypothesis was not rejected, indicating **insufficient statistical evidence of a significant difference** in mean G+A/90 between the two groups.
 
 
 # For Analytical Task 2
