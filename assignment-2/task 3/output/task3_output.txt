@@ -1,0 +1,42 @@
+Wrangling: kept 450 of 450 rows (dropped missing values, duplicates, and Att < 20).
+
+Population sizes after wrangling: Finalist = 32, Non-finalist = 418
+Sample sizes drawn: Finalist = 30, Non-finalist = 30
+
+============================================================
+DESCRIPTIVE STATISTICS - Pass completion % (Cmp%)
+============================================================
+
+Finalist (Spain + Argentina) (n=30):
+  mean   = 87.93%
+  median = 90.00%
+  std    = 6.38
+  min    = 73.00%
+  max    = 97.00%
+
+Non-finalist (n=30):
+  mean   = 86.87%
+  median = 87.00%
+  std    = 5.68
+  min    = 73.00%
+  max    = 97.00%
+
+============================================================
+95% CONFIDENCE INTERVAL - difference in mean Cmp%
+============================================================
+Mean difference (Finalist - Non-finalist) = 1.07 percentage points
+Welch-Satterthwaite df = 57.2
+95% CI for the difference = (-2.06, 4.19)
+
+============================================================
+TWO-SAMPLE T-TEST (Welch's, unequal variances)
+============================================================
+t-statistic = 0.684
+p-value     = 0.4967
+alpha       = 0.05
+
+Interpretation:
+  p = 0.4967 >= alpha = 0.05, so we fail to reject H0.
+  There is not enough evidence in this sample to conclude that
+  finalist and non-finalist players differ in mean pass completion rate.
+  (The 95% CI for the difference includes 0, consistent with the test result.)

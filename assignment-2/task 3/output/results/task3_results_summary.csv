@@ -1,0 +1,21 @@
+Metric,Value
+Finalist_n,30
+Finalist_mean_Cmp_pct,87.93
+Finalist_median_Cmp_pct,90.0
+Finalist_std_Cmp_pct,6.38
+Finalist_min_Cmp_pct,73
+Finalist_max_Cmp_pct,97
+NonFinalist_n,30
+NonFinalist_mean_Cmp_pct,86.87
+NonFinalist_median_Cmp_pct,87.0
+NonFinalist_std_Cmp_pct,5.68
+NonFinalist_min_Cmp_pct,73
+NonFinalist_max_Cmp_pct,97
+Mean_difference_pp_Finalist_minus_NonFinalist,1.07
+CI_95_lower,-2.06
+CI_95_upper,4.19
+Welch_df,57.2
+t_statistic,0.684
+p_value,0.4967
+alpha,0.05
+Conclusion,Fail to reject H0 - no statistically significant difference in mean pass completion % between finalist and non-finalist players at alpha=0.05
