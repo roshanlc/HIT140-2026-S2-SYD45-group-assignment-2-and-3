@@ -1,0 +1,841 @@
+team_label,squad_id,squad_url
+Manchester City,b8fd03ef,https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats
+Manchester City (M),b8fd03ef,https://fbref.com/en/squads/b8fd03ef/history/Manchester-City-Stats-and-History
+Arsenal (M),18bb7c10,https://fbref.com/en/squads/18bb7c10/Arsenal-Stats
+Arsenal (M),18bb7c10,https://fbref.com/en/squads/18bb7c10/history/Arsenal-Stats-and-History
+Brighton & Hove Albion,d07537b9,https://fbref.com/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats
+Club,d07537b9,https://fbref.com/en/squads/d07537b9/history/Brighton-and-Hove-Albion-Stats-and-History
+Brentford,cd051869,https://fbref.com/en/squads/cd051869/Brentford-Stats
+Club,cd051869,https://fbref.com/en/squads/cd051869/history/Brentford-Stats-and-History
+Roma,cf74a709,https://fbref.com/en/squads/cf74a709/Roma-Stats
+Roma (M),cf74a709,https://fbref.com/en/squads/cf74a709/history/Roma-Stats-and-History
+Internazionale (M),d609edc0,https://fbref.com/en/squads/d609edc0/Internazionale-Stats
+Internazionale (M),d609edc0,https://fbref.com/en/squads/d609edc0/history/Internazionale-Stats-and-History
+Lazio,7213da33,https://fbref.com/en/squads/7213da33/Lazio-Stats
+Lazio (M),7213da33,https://fbref.com/en/squads/7213da33/history/Lazio-Stats-and-History
+Cagliari,c4260e09,https://fbref.com/en/squads/c4260e09/Cagliari-Stats
+Club,c4260e09,https://fbref.com/en/squads/c4260e09/history/Cagliari-Stats-and-History
+Barcelona (M),206d90db,https://fbref.com/en/squads/206d90db/Barcelona-Stats
+Barcelona (M),206d90db,https://fbref.com/en/squads/206d90db/history/Barcelona-Stats-and-History
+Atlético Madrid,db3b9613,https://fbref.com/en/squads/db3b9613/Atletico-Madrid-Stats
+Atlético Madrid (M),db3b9613,https://fbref.com/en/squads/db3b9613/history/Atletico-Madrid-Stats-and-History
+Real Betis,fc536746,https://fbref.com/en/squads/fc536746/Real-Betis-Stats
+Club,fc536746,https://fbref.com/en/squads/fc536746/history/Real-Betis-Stats-and-History
+Real Madrid,53a2f082,https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats
+Real Madrid (M),53a2f082,https://fbref.com/en/squads/53a2f082/history/Real-Madrid-Stats-and-History
+Monaco,fd6114db,https://fbref.com/en/squads/fd6114db/Monaco-Stats
+Monaco (M),fd6114db,https://fbref.com/en/squads/fd6114db/history/Monaco-Stats-and-History
+Lyon,d53c0b06,https://fbref.com/en/squads/d53c0b06/Lyon-Stats
+Lyon (M),d53c0b06,https://fbref.com/en/squads/d53c0b06/history/Lyon-Stats-and-History
+Paris FC,056a5a75,https://fbref.com/en/squads/056a5a75/Paris-FC-Stats
+Club,056a5a75,https://fbref.com/en/squads/056a5a75/history/Paris-FC-Stats-and-History
+Lille,cb188c0c,https://fbref.com/en/squads/cb188c0c/Lille-Stats
+Lille (M),cb188c0c,https://fbref.com/en/squads/cb188c0c/history/Lille-Stats-and-History
+Dortmund,add600ae,https://fbref.com/en/squads/add600ae/Dortmund-Stats
+Dortmund (M),add600ae,https://fbref.com/en/squads/add600ae/history/Dortmund-Stats-and-History
+Bayern Munich (M),054efa67,https://fbref.com/en/squads/054efa67/Bayern-Munich-Stats
+Bayern Munich (M),054efa67,https://fbref.com/en/squads/054efa67/history/Bayern-Munich-Stats-and-History
+Freiburg,a486e511,https://fbref.com/en/squads/a486e511/Freiburg-Stats
+Club,a486e511,https://fbref.com/en/squads/a486e511/history/Freiburg-Stats-and-History
+Augsburg,0cdc4311,https://fbref.com/en/squads/0cdc4311/Augsburg-Stats
+Club,0cdc4311,https://fbref.com/en/squads/0cdc4311/history/Augsburg-Stats-and-History
+Nashville SC,35f1b818,https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats
+Club,35f1b818,https://fbref.com/en/squads/35f1b818/history/Nashville-SC-Stats-and-History
+Vancouver Whitecaps,ab41cb90,https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-Stats
+Vancouver Whitecaps (M),ab41cb90,https://fbref.com/en/squads/ab41cb90/history/Vancouver-Whitecaps-Stats-and-History
+St. Louis City,bd97ac1f,https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats
+Club,bd97ac1f,https://fbref.com/en/squads/bd97ac1f/history/St-Louis-City-Stats-and-History
+FC Dallas,15cf8f40,https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats
+FC Dallas (M),15cf8f40,https://fbref.com/en/squads/15cf8f40/history/FC-Dallas-Stats-and-History
+Gotham FC,8e306dc6,https://fbref.com/en/squads/8e306dc6/Gotham-FC-Stats
+Club,8e306dc6,https://fbref.com/en/squads/8e306dc6/history/Gotham-FC-Stats-and-History
+San Diego Wave,bf961da0,https://fbref.com/en/squads/bf961da0/San-Diego-Wave-Stats
+Club,bf961da0,https://fbref.com/en/squads/bf961da0/history/San-Diego-Wave-Stats-and-History
+Washington Spirit,e442aad0,https://fbref.com/en/squads/e442aad0/Washington-Spirit-Stats
+Club,e442aad0,https://fbref.com/en/squads/e442aad0/history/Washington-Spirit-Stats-and-History
+Utah Royals,d4c130bc,https://fbref.com/en/squads/d4c130bc/Utah-Royals-Stats
+Club,d4c130bc,https://fbref.com/en/squads/d4c130bc/history/Utah-Royals-Stats-and-History
+Manchester City,9ce68f8a,https://fbref.com/en/squads/9ce68f8a/Manchester-City-Women-Stats
+Club,9ce68f8a,https://fbref.com/en/squads/9ce68f8a/history/Manchester-City-Women-Stats-and-History
+Tottenham Hotspur,e8e4577c,https://fbref.com/en/squads/e8e4577c/Tottenham-Hotspur-Women-Stats
+Club,e8e4577c,https://fbref.com/en/squads/e8e4577c/history/Tottenham-Hotspur-Women-Stats-and-History
+Chelsea (F),a6a4e67d,https://fbref.com/en/squads/a6a4e67d/Chelsea-Women-Stats
+Club,a6a4e67d,https://fbref.com/en/squads/a6a4e67d/history/Chelsea-Women-Stats-and-History
+London City Lionesses,5e296e13,https://fbref.com/en/squads/5e296e13/London-City-Lionesses-Stats
+Club,5e296e13,https://fbref.com/en/squads/5e296e13/history/London-City-Lionesses-Stats-and-History
+OL Lyonnes (F),7f2012ad,https://fbref.com/en/squads/7f2012ad/OL-Lyonnes-Stats
+Club,7f2012ad,https://fbref.com/en/squads/7f2012ad/history/OL-Lyonnes-Stats-and-History
+Paris Saint-Germain,80595417,https://fbref.com/en/squads/80595417/Paris-Saint-Germain-Women-Stats
+Club,80595417,https://fbref.com/en/squads/80595417/history/Paris-Saint-Germain-Women-Stats-and-History
+Ol. Marseille,d22c6f60,https://fbref.com/en/squads/d22c6f60/Ol-Marseille-Women-Stats
+Club,d22c6f60,https://fbref.com/en/squads/d22c6f60/history/Marseille-Women-Stats-and-History
+Paris FC,28d9b675,https://fbref.com/en/squads/28d9b675/Paris-FC-Women-Stats
+Club,28d9b675,https://fbref.com/en/squads/28d9b675/history/Paris-FC-Women-Stats-and-History
+HJK Helsinki,d7319d80,https://fbref.com/en/squads/d7319d80/HJK-Helsinki-Stats
+VPS,8b63ce55,https://fbref.com/en/squads/8b63ce55/VPS-Stats
+KuPS (M),e6f63673,https://fbref.com/en/squads/e6f63673/KuPS-Stats
+AC Oulu,9fc6bb9a,https://fbref.com/en/squads/9fc6bb9a/AC-Oulu-Stats
+Foolad,aa3eb1d3,https://fbref.com/en/squads/aa3eb1d3/Foolad-Stats
+Mes Shahr,67af224a,https://fbref.com/en/squads/67af224a/Mes-Shahr-Babak-Stats
+Tractor (M),0230c3aa,https://fbref.com/en/squads/0230c3aa/Tractor-Stats
+Esteghlal,fe550dbf,https://fbref.com/en/squads/fe550dbf/Esteghlal-Stats
+Gol Gohar FC,2f5578dd,https://fbref.com/en/squads/2f5578dd/Gol-Gohar-FC-Stats
+Est. Khuzestan,dbad5f2c,https://fbref.com/en/squads/dbad5f2c/Esteghlal-Khuzestan-Stats
+Sepahan,e39cf61a,https://fbref.com/en/squads/e39cf61a/Sepahan-Stats
+Fajr Sepasi,70fc9d60,https://fbref.com/en/squads/70fc9d60/Fajr-Sepasi-Stats
+Nassaji,2c45d10e,https://fbref.com/en/squads/2c45d10e/Nassaji-Mazandaran-Stats
+Zob Ahan,f8106fc0,https://fbref.com/en/squads/f8106fc0/Zob-Ahan-Stats
+Aluminium Arak,0e85b362,https://fbref.com/en/squads/0e85b362/Aluminium-Arak-Stats
+Malavan,e4ec7ab0,https://fbref.com/en/squads/e4ec7ab0/Malavan-Stats
+Shamrock,f082c4f3,https://fbref.com/en/squads/f082c4f3/Shamrock-Rovers-Stats
+Drogheda United,359432b5,https://fbref.com/en/squads/359432b5/Drogheda-United-Stats
+CFR Cluj,ff04e205,https://fbref.com/en/squads/ff04e205/CFR-Cluj-Stats
+Univ. Cluj,aba482e2,https://fbref.com/en/squads/aba482e2/Universitatea-Cluj-Stats
+Men,b44b9eb7,https://fbref.com/en/squads/b44b9eb7/history/Albania-Men-Stats-and-History
+Women,5ebb7d99,https://fbref.com/en/squads/5ebb7d99/history/Albania-Women-Stats-and-History
+Vllaznia Shkodër (F),d8deaf72,https://fbref.com/en/squads/d8deaf72/history/Vllaznia-Shkoder-Women-Stats-and-History
+KF Skënderbeu Korçë (M),df526548,https://fbref.com/en/squads/df526548/history/KF-Skenderbeu-Korce-Stats-and-History
+KF Tirana (M),83310fa5,https://fbref.com/en/squads/83310fa5/history/KF-Tirana-Stats-and-History
+Kukësi (M),f1e85b1e,https://fbref.com/en/squads/f1e85b1e/history/Kukesi-Stats-and-History
+FK Egnatia (M),3ae11b52,https://fbref.com/en/squads/3ae11b52/history/FK-Egnatia-Stats-and-History
+Vllaznia Shkodër (M),e3a68c8b,https://fbref.com/en/squads/e3a68c8b/history/Vllaznia-Shkoder-Stats-and-History
+Men,b29753f4,https://fbref.com/en/squads/b29753f4/history/Andorra-Men-Stats-and-History
+Women,fa31208d,https://fbref.com/en/squads/fa31208d/history/Andorra-Women-Stats-and-History
+Santa Coloma (M),9549dc95,https://fbref.com/en/squads/9549dc95/history/Santa-Coloma-Stats-and-History
+Inter d'Escaldes (M),fb45dbb9,https://fbref.com/en/squads/fb45dbb9/history/Inter-dEscaldes-Stats-and-History
+UE Sant Julià (M),78816dd0,https://fbref.com/en/squads/78816dd0/history/UE-Sant-Julia-Stats-and-History
+Engordany (M),b784c866,https://fbref.com/en/squads/b784c866/history/Engordany-Stats-and-History
+Santa Coloma (M),84a33cca,https://fbref.com/en/squads/84a33cca/history/Santa-Coloma-Stats-and-History
+FC Lusitanos (M),857b60c3,https://fbref.com/en/squads/857b60c3/history/FC-Lusitanos-Stats-and-History
+Men,78c13166,https://fbref.com/en/squads/78c13166/history/Antigua-and-Barbuda-Men-Stats-and-History
+Women,2d448bd5,https://fbref.com/en/squads/2d448bd5/history/Antigua-and-Barbuda-Women-Stats-and-History
+Antigua Barracuda (M),19d27917,https://fbref.com/en/squads/19d27917/history/Antigua-Barracuda-Stats-and-History
+Men,f9fddd6e,https://fbref.com/en/squads/f9fddd6e/history/Argentina-Men-Stats-and-History
+Women,e1a7c292,https://fbref.com/en/squads/e1a7c292/history/Argentina-Women-Stats-and-History
+River Plate (M),ef99c78c,https://fbref.com/en/squads/ef99c78c/history/River-Plate-Stats-and-History
+Boca Juniors (M),795ca75e,https://fbref.com/en/squads/795ca75e/history/Boca-Juniors-Stats-and-History
+Racing Club (M),8e20e13d,https://fbref.com/en/squads/8e20e13d/history/Racing-Club-Stats-and-History
+CA San Lorenzo (M),66da6009,https://fbref.com/en/squads/66da6009/history/CA-San-Lorenzo-Stats-and-History
+Estudiantes La Plata (M),df734df9,https://fbref.com/en/squads/df734df9/history/Estudiantes-La-Plata-Stats-and-History
+Lanús (M),11b6dba8,https://fbref.com/en/squads/11b6dba8/history/Lanus-Stats-and-History
+Men,95d6caec,https://fbref.com/en/squads/95d6caec/history/Armenia-Men-Stats-and-History
+Women,f13b4a62,https://fbref.com/en/squads/f13b4a62/history/Armenia-Women-Stats-and-History
+Pyunik (M),03022534,https://fbref.com/en/squads/03022534/history/Pyunik-Stats-and-History
+Alashkert (M),e6232d10,https://fbref.com/en/squads/e6232d10/history/Alashkert-Stats-and-History
+Ararat-Armenia (M),85dbecd4,https://fbref.com/en/squads/85dbecd4/history/Ararat-Armenia-Stats-and-History
+FC Shirak (M),8771d9cd,https://fbref.com/en/squads/8771d9cd/history/FC-Shirak-Stats-and-History
+Urartu (M),f0e1ca42,https://fbref.com/en/squads/f0e1ca42/history/Urartu-Stats-and-History
+FC Mika (M),9558d297,https://fbref.com/en/squads/9558d297/history/FC-Mika-Stats-and-History
+Men,b90bf4f9,https://fbref.com/en/squads/b90bf4f9/history/Australia-Men-Stats-and-History
+Women,a3aba642,https://fbref.com/en/squads/a3aba642/history/Australia-Women-Stats-and-History
+Sydney FC (M),2466c132,https://fbref.com/en/squads/2466c132/history/Sydney-FC-Stats-and-History
+Melbourne Victory (M),fbcd7d37,https://fbref.com/en/squads/fbcd7d37/history/Melbourne-Victory-Stats-and-History
+Adelaide United (M),a4302376,https://fbref.com/en/squads/a4302376/history/Adelaide-United-Stats-and-History
+Brisbane Roar (M),3efc42c3,https://fbref.com/en/squads/3efc42c3/history/Brisbane-Roar-Stats-and-History
+Central Coast Mariners (M),605aca82,https://fbref.com/en/squads/605aca82/history/Central-Coast-Mariners-Stats-and-History
+Perth Glory (M),f2b23808,https://fbref.com/en/squads/f2b23808/history/Perth-Glory-Stats-and-History
+Men,d5121f10,https://fbref.com/en/squads/d5121f10/history/Austria-Men-Stats-and-History
+Women,ef1bda3e,https://fbref.com/en/squads/ef1bda3e/history/Austria-Women-Stats-and-History
+Red Bull Salzburg (M),50f2a074,https://fbref.com/en/squads/50f2a074/history/Red-Bull-Salzburg-Stats-and-History
+Rapid Wien (M),912e4c40,https://fbref.com/en/squads/912e4c40/history/Rapid-Wien-Stats-and-History
+Austria Wien (M),ee0bccc5,https://fbref.com/en/squads/ee0bccc5/history/Austria-Wien-Stats-and-History
+Sturm Graz (M),3f4fe568,https://fbref.com/en/squads/3f4fe568/history/Sturm-Graz-Stats-and-History
+LASK (M),d20821dd,https://fbref.com/en/squads/d20821dd/history/LASK-Stats-and-History
+Ried (M),8bb8811f,https://fbref.com/en/squads/8bb8811f/history/Ried-Stats-and-History
+Men,d08da289,https://fbref.com/en/squads/d08da289/history/Azerbaijan-Men-Stats-and-History
+Women,fe350fd0,https://fbref.com/en/squads/fe350fd0/history/Azerbaijan-Women-Stats-and-History
+Qarabağ (M),44b65410,https://fbref.com/en/squads/44b65410/history/Qarabag-Stats-and-History
+Neftçi (M),d0ab5e26,https://fbref.com/en/squads/d0ab5e26/history/Neftci-Stats-and-History
+Keşla (M),63866313,https://fbref.com/en/squads/63866313/history/Kesla-Stats-and-History
+Qabala (M),a1962466,https://fbref.com/en/squads/a1962466/history/Qabala-Stats-and-History
+Sabah FK (M),a86b0368,https://fbref.com/en/squads/a86b0368/history/Sabah-FK-Stats-and-History
+FC Baku (M),c0423451,https://fbref.com/en/squads/c0423451/history/FC-Baku-Stats-and-History
+Men,f6725d1c,https://fbref.com/en/squads/f6725d1c/history/Belarus-Men-Stats-and-History
+Women,56e3fba7,https://fbref.com/en/squads/56e3fba7/history/Belarus-Women-Stats-and-History
+BATE Borisov (M),b983b638,https://fbref.com/en/squads/b983b638/history/BATE-Borisov-Stats-and-History
+Dinamo Minsk (M),e2a78c9d,https://fbref.com/en/squads/e2a78c9d/history/Dinamo-Minsk-Stats-and-History
+FC Minsk (F),768fae36,https://fbref.com/en/squads/768fae36/history/FC-Minsk-Women-Stats-and-History
+Shakhtyor Soligorsk (M),7517d495,https://fbref.com/en/squads/7517d495/history/Shakhtyor-Soligorsk-Stats-and-History
+Dynamo Minsk (F),3997bac6,https://fbref.com/en/squads/3997bac6/history/Dynamo-Minsk-Stats-and-History
+FC Gomel (M),23afe41d,https://fbref.com/en/squads/23afe41d/history/FC-Gomel-Stats-and-History
+Men,361422b9,https://fbref.com/en/squads/361422b9/history/Belgium-Men-Stats-and-History
+Women,46db89e7,https://fbref.com/en/squads/46db89e7/history/Belgium-Women-Stats-and-History
+Club Brugge (M),f1e6c5f1,https://fbref.com/en/squads/f1e6c5f1/history/Club-Brugge-Stats-and-History
+Anderlecht (M),08ad393c,https://fbref.com/en/squads/08ad393c/history/Anderlecht-Stats-and-History
+Genk (M),1e972a99,https://fbref.com/en/squads/1e972a99/history/Genk-Stats-and-History
+Gent (M),51e5a603,https://fbref.com/en/squads/51e5a603/history/Gent-Stats-and-History
+Standard Liège (M),33c6b26e,https://fbref.com/en/squads/33c6b26e/history/Standard-Liege-Stats-and-History
+Charleroi (M),140e320a,https://fbref.com/en/squads/140e320a/history/Charleroi-Stats-and-History
+Men,1bd2760c,https://fbref.com/en/squads/1bd2760c/history/Bolivia-Men-Stats-and-History
+Women,545cdb6d,https://fbref.com/en/squads/545cdb6d/history/Bolivia-Women-Stats-and-History
+Bolívar (M),e69cb5b6,https://fbref.com/en/squads/e69cb5b6/history/Bolivar-Stats-and-History
+The Strongest (M),6dcc14bf,https://fbref.com/en/squads/6dcc14bf/history/The-Strongest-Stats-and-History
+Jorge Wilstermann (M),a58173b2,https://fbref.com/en/squads/a58173b2/history/Jorge-Wilstermann-Stats-and-History
+Oriente Petrolero (M),bdc20e84,https://fbref.com/en/squads/bdc20e84/history/Oriente-Petrolero-Stats-and-History
+Nacional Potosí (M),ad63267c,https://fbref.com/en/squads/ad63267c/history/Nacional-Potosi-Stats-and-History
+Blooming (M),40d8842e,https://fbref.com/en/squads/40d8842e/history/Blooming-Stats-and-History
+Men,6c5ef1c3,https://fbref.com/en/squads/6c5ef1c3/history/Bosnia-and-Herzegovina-Men-Stats-and-History
+Women,88e8cc96,https://fbref.com/en/squads/88e8cc96/history/Bosnia-and-Herzegovina-Women-Stats-and-History
+SFK 2000 (F),814f26cd,https://fbref.com/en/squads/814f26cd/history/SFK-2000-Stats-and-History
+Zrinjski Mostar (M),2a6cfcb2,https://fbref.com/en/squads/2a6cfcb2/history/Zrinjski-Mostar-Stats-and-History
+Široki Brijeg (M),584d189a,https://fbref.com/en/squads/584d189a/history/Siroki-Brijeg-Stats-and-History
+Željezničar Sarajevo (M),ee945014,https://fbref.com/en/squads/ee945014/history/Zeljeznicar-Sarajevo-Stats-and-History
+Sarajevo (M),fac9957a,https://fbref.com/en/squads/fac9957a/history/Sarajevo-Stats-and-History
+Borac Banja Luka (M),c3ca97e7,https://fbref.com/en/squads/c3ca97e7/history/Borac-Banja-Luka-Stats-and-History
+Men,304635c3,https://fbref.com/en/squads/304635c3/history/Brazil-Men-Stats-and-History
+Women,1ef8bee8,https://fbref.com/en/squads/1ef8bee8/history/Brazil-Women-Stats-and-History
+Palmeiras (M),abdce579,https://fbref.com/en/squads/abdce579/history/Palmeiras-Stats-and-History
+Flamengo (M),639950ae,https://fbref.com/en/squads/639950ae/history/Flamengo-Stats-and-History
+Atlético Mineiro (M),422bb734,https://fbref.com/en/squads/422bb734/history/Atletico-Mineiro-Stats-and-History
+São Paulo (M),5f232eb1,https://fbref.com/en/squads/5f232eb1/history/Sao-Paulo-Stats-and-History
+Grêmio (M),d5ae3703,https://fbref.com/en/squads/d5ae3703/history/Gremio-Stats-and-History
+Corinthians (M),bf4acd28,https://fbref.com/en/squads/bf4acd28/history/Corinthians-Stats-and-History
+Men,06d209d4,https://fbref.com/en/squads/06d209d4/history/Bulgaria-Men-Stats-and-History
+Women,a4f47b07,https://fbref.com/en/squads/a4f47b07/history/Bulgaria-Women-Stats-and-History
+Ludogorets Razgrad (M),488c6ba1,https://fbref.com/en/squads/488c6ba1/history/Ludogorets-Razgrad-Stats-and-History
+CSKA Sofia (M),cbde2682,https://fbref.com/en/squads/cbde2682/history/CSKA-Sofia-Stats-and-History
+Levski Sofia (M),3a7a27c6,https://fbref.com/en/squads/3a7a27c6/history/Levski-Sofia-Stats-and-History
+Cherno More (M),f61e60c9,https://fbref.com/en/squads/f61e60c9/history/Cherno-More-Stats-and-History
+Lokomotiv Plovdiv (M),e0242ef1,https://fbref.com/en/squads/e0242ef1/history/Lokomotiv-Plovdiv-Stats-and-History
+Beroe (M),ab7b2fe7,https://fbref.com/en/squads/ab7b2fe7/history/Beroe-Stats-and-History
+Men,9c6d90a0,https://fbref.com/en/squads/9c6d90a0/history/Canada-Men-Stats-and-History
+Women,1823cbb3,https://fbref.com/en/squads/1823cbb3/history/Canada-Women-Stats-and-History
+Toronto FC (M),130f43fa,https://fbref.com/en/squads/130f43fa/history/Toronto-FC-Stats-and-History
+CF Montréal (M),fc22273c,https://fbref.com/en/squads/fc22273c/history/CF-Montreal-Stats-and-History
+Cavalry FC (M),b0e76152,https://fbref.com/en/squads/b0e76152/history/Cavalry-FC-Stats-and-History
+Forge FC (M),8514c671,https://fbref.com/en/squads/8514c671/history/Forge-FC-Stats-and-History
+Atlético Ottawa (M),ccdb10ba,https://fbref.com/en/squads/ccdb10ba/history/Atletico-Ottawa-Stats-and-History
+Men,7fd9c2a2,https://fbref.com/en/squads/7fd9c2a2/history/Chile-Men-Stats-and-History
+Women,3cd7294d,https://fbref.com/en/squads/3cd7294d/history/Chile-Women-Stats-and-History
+Colo-Colo (M),2ff539f3,https://fbref.com/en/squads/2ff539f3/history/Colo-Colo-Stats-and-History
+Universidad Católica (M),3e3fbf36,https://fbref.com/en/squads/3e3fbf36/history/Universidad-Catolica-Stats-and-History
+Universidad de Chile (M),d4a88ef6,https://fbref.com/en/squads/d4a88ef6/history/Universidad-de-Chile-Stats-and-History
+Palestino (M),fccf2756,https://fbref.com/en/squads/fccf2756/history/Palestino-Stats-and-History
+O'Higgins (M),5049d576,https://fbref.com/en/squads/5049d576/history/OHiggins-Stats-and-History
+Unión Española (M),def379c5,https://fbref.com/en/squads/def379c5/history/Union-Espanola-Stats-and-History
+Men,77e8077f,https://fbref.com/en/squads/77e8077f/history/China-PR-Men-Stats-and-History
+Women,c4658caa,https://fbref.com/en/squads/c4658caa/history/China-PR-Women-Stats-and-History
+Shanghai Port (M),c48512d3,https://fbref.com/en/squads/c48512d3/history/Shanghai-Port-Stats-and-History
+Shandong Taishan (M),d721b332,https://fbref.com/en/squads/d721b332/history/Shandong-Taishan-Stats-and-History
+Beijing Guoan (M),8ab37ab8,https://fbref.com/en/squads/8ab37ab8/history/Beijing-Guoan-Stats-and-History
+Shanghai Shenhua (M),8385b101,https://fbref.com/en/squads/8385b101/history/Shanghai-Shenhua-Stats-and-History
+Guangzhou Evergrande Taobao (M),1837b9f6,https://fbref.com/en/squads/1837b9f6/history/Guangzhou-Evergrande-Taobao-Stats-and-History
+Henan (M),b037fc40,https://fbref.com/en/squads/b037fc40/history/Henan-Stats-and-History
+Men,ab73cfe5,https://fbref.com/en/squads/ab73cfe5/history/Colombia-Men-Stats-and-History
+Women,1fe6955e,https://fbref.com/en/squads/1fe6955e/history/Colombia-Women-Stats-and-History
+Atlético Nacional (M),e0b973a6,https://fbref.com/en/squads/e0b973a6/history/Atletico-Nacional-Stats-and-History
+Deportes Tolima (M),9c4c0cc1,https://fbref.com/en/squads/9c4c0cc1/history/Deportes-Tolima-Stats-and-History
+Junior (M),b281fa3b,https://fbref.com/en/squads/b281fa3b/history/Junior-Stats-and-History
+Millonarios (M),4c319052,https://fbref.com/en/squads/4c319052/history/Millonarios-Stats-and-History
+Santa Fe (M),a7854d10,https://fbref.com/en/squads/a7854d10/history/Santa-Fe-Stats-and-History
+Independiente Medellín (M),70068101,https://fbref.com/en/squads/70068101/history/Independiente-Medellin-Stats-and-History
+Men,1ea5ab66,https://fbref.com/en/squads/1ea5ab66/history/Costa-Rica-Men-Stats-and-History
+Women,06d68be7,https://fbref.com/en/squads/06d68be7/history/Costa-Rica-Women-Stats-and-History
+Herediano (M),d1162407,https://fbref.com/en/squads/d1162407/history/Herediano-Stats-and-History
+Deportivo Saprissa (M),c5806537,https://fbref.com/en/squads/c5806537/history/Deportivo-Saprissa-Stats-and-History
+Alajuelense (M),b93b7301,https://fbref.com/en/squads/b93b7301/history/Alajuelense-Stats-and-History
+CS Cartaginés (M),f58ca862,https://fbref.com/en/squads/f58ca862/history/CS-Cartagines-Stats-and-History
+Santos de Guápiles (M),20822305,https://fbref.com/en/squads/20822305/history/Santos-de-Guapiles-Stats-and-History
+San Carlos (M),9fcb490d,https://fbref.com/en/squads/9fcb490d/history/San-Carlos-Stats-and-History
+Men,7b08e376,https://fbref.com/en/squads/7b08e376/history/Croatia-Men-Stats-and-History
+Women,ee1fa32b,https://fbref.com/en/squads/ee1fa32b/history/Croatia-Women-Stats-and-History
+Dinamo Zagreb (M),edd0d381,https://fbref.com/en/squads/edd0d381/history/Dinamo-Zagreb-Stats-and-History
+Hajduk Split (M),6777e16d,https://fbref.com/en/squads/6777e16d/history/Hajduk-Split-Stats-and-History
+Rijeka (M),25dbe099,https://fbref.com/en/squads/25dbe099/history/Rijeka-Stats-and-History
+Osijek (M),57d14db5,https://fbref.com/en/squads/57d14db5/history/Osijek-Stats-and-History
+Slaven Belupo (M),7a798c4b,https://fbref.com/en/squads/7a798c4b/history/Slaven-Belupo-Stats-and-History
+Lokomotiva Zagreb (M),ea115eb3,https://fbref.com/en/squads/ea115eb3/history/Lokomotiva-Zagreb-Stats-and-History
+Men,5d77335a,https://fbref.com/en/squads/5d77335a/history/Cyprus-Men-Stats-and-History
+Women,829d4995,https://fbref.com/en/squads/829d4995/history/Cyprus-Women-Stats-and-History
+APOEL FC (M),eab315a6,https://fbref.com/en/squads/eab315a6/history/APOEL-FC-Stats-and-History
+Anorthosis (M),d27fe90c,https://fbref.com/en/squads/d27fe90c/history/Anorthosis-Stats-and-History
+AC Omonia (M),15e031af,https://fbref.com/en/squads/15e031af/history/AC-Omonia-Stats-and-History
+Apollon Ladies (F),092980d3,https://fbref.com/en/squads/092980d3/history/Apollon-Ladies-Stats-and-History
+AEK Larnaca (M),01689b1a,https://fbref.com/en/squads/01689b1a/history/AEK-Larnaca-Stats-and-History
+Apollon Limassol (M),8dff1828,https://fbref.com/en/squads/8dff1828/history/Apollon-Limassol-Stats-and-History
+Men,2740937c,https://fbref.com/en/squads/2740937c/history/Czechia-Men-Stats-and-History
+Women,7dcf6881,https://fbref.com/en/squads/7dcf6881/history/Czechia-Women-Stats-and-History
+Sparta Prague (M),ecb862be,https://fbref.com/en/squads/ecb862be/history/Sparta-Prague-Stats-and-History
+Viktoria Plzeň (M),02cd81bf,https://fbref.com/en/squads/02cd81bf/history/Viktoria-Plzen-Stats-and-History
+Slavia Prague (M),111cbfb1,https://fbref.com/en/squads/111cbfb1/history/Slavia-Prague-Stats-and-History
+Jablonec (M),8424bb18,https://fbref.com/en/squads/8424bb18/history/Jablonec-Stats-and-History
+Slovan Liberec (M),2c9bebcd,https://fbref.com/en/squads/2c9bebcd/history/Slovan-Liberec-Stats-and-History
+Mladá Boleslav (M),70c92f33,https://fbref.com/en/squads/70c92f33/history/Mlada-Boleslav-Stats-and-History
+Men,29a4e4af,https://fbref.com/en/squads/29a4e4af/history/Denmark-Men-Stats-and-History
+Women,a8855f01,https://fbref.com/en/squads/a8855f01/history/Denmark-Women-Stats-and-History
+FC Copenhagen (M),18050b20,https://fbref.com/en/squads/18050b20/history/FC-Copenhagen-Stats-and-History
+Midtjylland (M),3c4fb635,https://fbref.com/en/squads/3c4fb635/history/Midtjylland-Stats-and-History
+Brøndby (M),ab75e049,https://fbref.com/en/squads/ab75e049/history/Brondby-Stats-and-History
+Nordsjælland (M),1850e3f9,https://fbref.com/en/squads/1850e3f9/history/Nordsjaelland-Stats-and-History
+Odense (M),3f5150ef,https://fbref.com/en/squads/3f5150ef/history/Odense-Stats-and-History
+Aalborg (M),7e746554,https://fbref.com/en/squads/7e746554/history/Aalborg-Stats-and-History
+Men,fb6f8ac6,https://fbref.com/en/squads/fb6f8ac6/history/Dominican-Republic-Men-Stats-and-History
+Women,f43e8f99,https://fbref.com/en/squads/f43e8f99/history/Dominican-Republic-Women-Stats-and-History
+Cibao FC (M),a0790e2c,https://fbref.com/en/squads/a0790e2c/history/Cibao-FC-Stats-and-History
+O&M FC (M),3ce725cf,https://fbref.com/en/squads/3ce725cf/history/OandM-FC-Stats-and-History
+Pantoja (M),742e96b7,https://fbref.com/en/squads/742e96b7/history/Pantoja-Stats-and-History
+Moca FC (M),9b2ada0a,https://fbref.com/en/squads/9b2ada0a/history/Moca-FC-Stats-and-History
+Men,123acaf8,https://fbref.com/en/squads/123acaf8/history/Ecuador-Men-Stats-and-History
+Women,616d8fd5,https://fbref.com/en/squads/616d8fd5/history/Ecuador-Women-Stats-and-History
+Independiente del Valle (M),990519b8,https://fbref.com/en/squads/990519b8/history/Independiente-del-Valle-Stats-and-History
+LDU Quito (M),1284d3f9,https://fbref.com/en/squads/1284d3f9/history/LDU-Quito-Stats-and-History
+Barcelona (M),8c71aef1,https://fbref.com/en/squads/8c71aef1/history/Barcelona-Stats-and-History
+Emelec (M),c1f8ae36,https://fbref.com/en/squads/c1f8ae36/history/Emelec-Stats-and-History
+Universidad Católica (M),01f5194d,https://fbref.com/en/squads/01f5194d/history/Universidad-Catolica-Stats-and-History
+Deportivo Cuenca (M),99a46175,https://fbref.com/en/squads/99a46175/history/Deportivo-Cuenca-Stats-and-History
+Men,b8889750,https://fbref.com/en/squads/b8889750/history/Egypt-Men-Stats-and-History
+Women,1c614f60,https://fbref.com/en/squads/1c614f60/history/Egypt-Women-Stats-and-History
+Al Ahly (M),79a0cdd6,https://fbref.com/en/squads/79a0cdd6/history/Al-Ahly-Stats-and-History
+Men,fc3dbeaa,https://fbref.com/en/squads/fc3dbeaa/history/El-Salvador-Men-Stats-and-History
+Women,924cc9d9,https://fbref.com/en/squads/924cc9d9/history/El-Salvador-Women-Stats-and-History
+Alianza FC (M),74480d38,https://fbref.com/en/squads/74480d38/history/Alianza-FC-Stats-and-History
+Men,1862c019,https://fbref.com/en/squads/1862c019/history/England-Men-Stats-and-History
+Women,5849ebe1,https://fbref.com/en/squads/5849ebe1/history/England-Women-Stats-and-History
+Liverpool (M),822bd0ba,https://fbref.com/en/squads/822bd0ba/history/Liverpool-Stats-and-History
+Manchester United (M),19538871,https://fbref.com/en/squads/19538871/history/Manchester-United-Stats-and-History
+Chelsea (M),cff3d9bb,https://fbref.com/en/squads/cff3d9bb/history/Chelsea-Stats-and-History
+Everton (M),d3fd31cc,https://fbref.com/en/squads/d3fd31cc/history/Everton-Stats-and-History
+Men,a82f4aef,https://fbref.com/en/squads/a82f4aef/history/Estonia-Men-Stats-and-History
+Women,e0b3920c,https://fbref.com/en/squads/e0b3920c/history/Estonia-Women-Stats-and-History
+FC Levadia Tallinn (M),112c9642,https://fbref.com/en/squads/112c9642/history/FC-Levadia-Tallinn-Stats-and-History
+FC Flora (M),719d83f1,https://fbref.com/en/squads/719d83f1/history/FC-Flora-Stats-and-History
+Nõmme Kalju FC (M),33afefe1,https://fbref.com/en/squads/33afefe1/history/Nomme-Kalju-FC-Stats-and-History
+Pärnu (F),7b538d76,https://fbref.com/en/squads/7b538d76/history/Parnu-Stats-and-History
+Flora Tallinn (F),aee32dcc,https://fbref.com/en/squads/aee32dcc/history/Flora-Tallinn-Stats-and-History
+JK Sillamäe Kalev (M),7bc6abf1,https://fbref.com/en/squads/7bc6abf1/history/JK-Sillamae-Kalev-Stats-and-History
+Men,dcdf0349,https://fbref.com/en/squads/dcdf0349/history/Faroe-Islands-Men-Stats-and-History
+Women,b0482db3,https://fbref.com/en/squads/b0482db3/history/Faroe-Islands-Women-Stats-and-History
+KÍ Klaksvík (M),869753d6,https://fbref.com/en/squads/869753d6/history/KI-Klaksvik-Stats-and-History
+B36 Tórshavn (M),056a9b27,https://fbref.com/en/squads/056a9b27/history/B36-Torshavn-Stats-and-History
+Havnar Bóltfelag (M),15c5743b,https://fbref.com/en/squads/15c5743b/history/Havnar-Boltfelag-Stats-and-History
+Víkingur Gøta (M),ea73b616,https://fbref.com/en/squads/ea73b616/history/Vikingur-Gota-Stats-and-History
+KÍ Klaksvík (F),bd5e1428,https://fbref.com/en/squads/bd5e1428/history/KI-Klaksvik-Women-Stats-and-History
+NSÍ Runavík (M),448e1bb9,https://fbref.com/en/squads/448e1bb9/history/NSI-Runavik-Stats-and-History
+Men,df3e055b,https://fbref.com/en/squads/df3e055b/history/Finland-Men-Stats-and-History
+Women,8df8987f,https://fbref.com/en/squads/8df8987f/history/Finland-Women-Stats-and-History
+HJK Helsinki (M),d7319d80,https://fbref.com/en/squads/d7319d80/history/HJK-Helsinki-Stats-and-History
+Inter Turku (M),e9fa2e8b,https://fbref.com/en/squads/e9fa2e8b/history/Inter-Turku-Stats-and-History
+KuPS (M),e6f63673,https://fbref.com/en/squads/e6f63673/history/KuPS-Stats-and-History
+Lahti (M),5b8cfb05,https://fbref.com/en/squads/5b8cfb05/history/Lahti-Stats-and-History
+IFK Mariehamn (M),c4e86b86,https://fbref.com/en/squads/c4e86b86/history/IFK-Mariehamn-Stats-and-History
+VPS (M),8b63ce55,https://fbref.com/en/squads/8b63ce55/history/VPS-Stats-and-History
+Men,b1b36dcd,https://fbref.com/en/squads/b1b36dcd/history/France-Men-Stats-and-History
+Women,064c6283,https://fbref.com/en/squads/064c6283/history/France-Women-Stats-and-History
+Paris Saint-Germain (M),e2d8892c,https://fbref.com/en/squads/e2d8892c/history/Paris-Saint-Germain-Stats-and-History
+Marseille (M),5725cc7b,https://fbref.com/en/squads/5725cc7b/history/Marseille-Stats-and-History
+Bordeaux (M),123f3efe,https://fbref.com/en/squads/123f3efe/history/Bordeaux-Stats-and-History
+Men,f86ba50c,https://fbref.com/en/squads/f86ba50c/history/French-Guiana-Men-Stats-and-History
+AS Etoile de Matoury (M),16d603bf,https://fbref.com/en/squads/16d603bf/history/AS-Etoile-de-Matoury-Stats-and-History
+Aigles d'Or (M),236a1372,https://fbref.com/en/squads/236a1372/history/Aigles-dOr-Stats-and-History
+EF Iracoubo (M),661e458a,https://fbref.com/en/squads/661e458a/history/EF-Iracoubo-Stats-and-History
+ASC de l'Ouest (M),82d44ea3,https://fbref.com/en/squads/82d44ea3/history/ASC-de-lOuest-Stats-and-History
+ASC Agouado (M),9e661299,https://fbref.com/en/squads/9e661299/history/ASC-Agouado-Stats-and-History
+Men,7158b127,https://fbref.com/en/squads/7158b127/history/Georgia-Men-Stats-and-History
+Women,574f28dc,https://fbref.com/en/squads/574f28dc/history/Georgia-Women-Stats-and-History
+FC Dinamo Tbilisi (M),e2fa043d,https://fbref.com/en/squads/e2fa043d/history/FC-Dinamo-Tbilisi-Stats-and-History
+FC Torpedo Kutaisi (M),231f4a61,https://fbref.com/en/squads/231f4a61/history/FC-Torpedo-Kutaisi-Stats-and-History
+Chikhura Sachkhere (M),e839c85b,https://fbref.com/en/squads/e839c85b/history/Chikhura-Sachkhere-Stats-and-History
+FC Zestafoni (M),c1322cab,https://fbref.com/en/squads/c1322cab/history/FC-Zestafoni-Stats-and-History
+Lanchkhuti (F),1c934f04,https://fbref.com/en/squads/1c934f04/history/Lanchkhuti-Stats-and-History
+Iberia 1999 (M),672ebb3d,https://fbref.com/en/squads/672ebb3d/history/Iberia-1999-Stats-and-History
+Men,c1e40422,https://fbref.com/en/squads/c1e40422/history/Germany-Men-Stats-and-History
+Women,0a9f476d,https://fbref.com/en/squads/0a9f476d/history/Germany-Women-Stats-and-History
+Leverkusen (M),c7a9f859,https://fbref.com/en/squads/c7a9f859/history/Leverkusen-Stats-and-History
+Werder Bremen (M),62add3bf,https://fbref.com/en/squads/62add3bf/history/Werder-Bremen-Stats-and-History
+Stuttgart (M),598bc722,https://fbref.com/en/squads/598bc722/history/Stuttgart-Stats-and-History
+Schalke 04 (M),c539e393,https://fbref.com/en/squads/c539e393/history/Schalke-04-Stats-and-History
+Men,a9c1b8fe,https://fbref.com/en/squads/a9c1b8fe/history/Gibraltar-Men-Stats-and-History
+Women,19c72b33,https://fbref.com/en/squads/19c72b33/history/Gibraltar-Women-Stats-and-History
+Lincoln Red Imps FC (M),2d3c1b6d,https://fbref.com/en/squads/2d3c1b6d/history/Lincoln-Red-Imps-FC-Stats-and-History
+Europa FC (M),75cd4ee3,https://fbref.com/en/squads/75cd4ee3/history/Europa-FC-Stats-and-History
+St. Joseph's (M),bb780485,https://fbref.com/en/squads/bb780485/history/St-Josephs-Stats-and-History
+Bruno's Magpies FC (M),671a048d,https://fbref.com/en/squads/671a048d/history/Brunos-Magpies-FC-Stats-and-History
+Mons Calpe SC (M),7e5aaab9,https://fbref.com/en/squads/7e5aaab9/history/Mons-Calpe-SC-Stats-and-History
+Women,ff9eafce,https://fbref.com/en/squads/ff9eafce/history/Great-Britain-Women-Stats-and-History
+Men,811d90a4,https://fbref.com/en/squads/811d90a4/history/Greece-Men-Stats-and-History
+Women,8180e3aa,https://fbref.com/en/squads/8180e3aa/history/Greece-Women-Stats-and-History
+Olympiacos (M),2fdb4aef,https://fbref.com/en/squads/2fdb4aef/history/Olympiacos-Stats-and-History
+Panathinaikos (M),f3a5726c,https://fbref.com/en/squads/f3a5726c/history/Panathinaikos-Stats-and-History
+PAOK (M),5a5e7874,https://fbref.com/en/squads/5a5e7874/history/PAOK-Stats-and-History
+AEK Athens (M),d5348c80,https://fbref.com/en/squads/d5348c80/history/AEK-Athens-Stats-and-History
+Aris (M),edddfa63,https://fbref.com/en/squads/edddfa63/history/Aris-Stats-and-History
+Atromitos (M),c9607f44,https://fbref.com/en/squads/c9607f44/history/Atromitos-Stats-and-History
+Men,aebc6f4f,https://fbref.com/en/squads/aebc6f4f/history/Guadeloupe-Men-Stats-and-History
+Phare du Canal (M),131b6d6f,https://fbref.com/en/squads/131b6d6f/history/Phare-du-Canal-Stats-and-History
+ASC Le Siroco (M),635b7f12,https://fbref.com/en/squads/635b7f12/history/ASC-Le-Siroco-Stats-and-History
+SC Baie-Mahault (M),66e36b52,https://fbref.com/en/squads/66e36b52/history/SC-Baie-Mahault-Stats-and-History
+Unité Sainte-Rosienne (M),abdf207a,https://fbref.com/en/squads/abdf207a/history/Unite-Sainte-Rosienne-Stats-and-History
+Men,6e9779a2,https://fbref.com/en/squads/6e9779a2/history/Guatemala-Men-Stats-and-History
+Women,8a7ef1d7,https://fbref.com/en/squads/8a7ef1d7/history/Guatemala-Women-Stats-and-History
+Comunicaciones (M),c4fe7ad9,https://fbref.com/en/squads/c4fe7ad9/history/Comunicaciones-Stats-and-History
+Club Xelajú MC (M),c01011f6,https://fbref.com/en/squads/c01011f6/history/Club-Xelaju-MC-Stats-and-History
+Deportivo Guastatoya (M),c4c0781e,https://fbref.com/en/squads/c4c0781e/history/Deportivo-Guastatoya-Stats-and-History
+Antigua GFC (M),e8c90349,https://fbref.com/en/squads/e8c90349/history/Antigua-GFC-Stats-and-History
+Men,61828292,https://fbref.com/en/squads/61828292/history/Haiti-Men-Stats-and-History
+Women,198ca51f,https://fbref.com/en/squads/198ca51f/history/Haiti-Women-Stats-and-History
+Violette AC (M),2c4ae853,https://fbref.com/en/squads/2c4ae853/history/Violette-AC-Stats-and-History
+Arcahaie FC (M),1cde5599,https://fbref.com/en/squads/1cde5599/history/Arcahaie-FC-Stats-and-History
+Real Hope (M),050e8bae,https://fbref.com/en/squads/050e8bae/history/Real-Hope-Stats-and-History
+AS Cavaly (M),922c3cf8,https://fbref.com/en/squads/922c3cf8/history/AS-Cavaly-Stats-and-History
+Men,a1f66233,https://fbref.com/en/squads/a1f66233/history/Honduras-Men-Stats-and-History
+Women,dd5e7dd0,https://fbref.com/en/squads/dd5e7dd0/history/Honduras-Women-Stats-and-History
+CD Olimpia (M),ac5eeb82,https://fbref.com/en/squads/ac5eeb82/history/CD-Olimpia-Stats-and-History
+CD Motagua (M),a7ebbaf1,https://fbref.com/en/squads/a7ebbaf1/history/CD-Motagua-Stats-and-History
+Real España (M),4e4e7c94,https://fbref.com/en/squads/4e4e7c94/history/Real-Espana-Stats-and-History
+Marathón (M),ec838161,https://fbref.com/en/squads/ec838161/history/Marathon-Stats-and-History
+Men,b4ac5e97,https://fbref.com/en/squads/b4ac5e97/history/Hungary-Men-Stats-and-History
+Women,f7d8181e,https://fbref.com/en/squads/f7d8181e/history/Hungary-Women-Stats-and-History
+Ferencváros (M),6611f992,https://fbref.com/en/squads/6611f992/history/Ferencvaros-Stats-and-History
+Fehérvár (M),a338349f,https://fbref.com/en/squads/a338349f/history/Fehervar-Stats-and-History
+Debrecen (M),e24ac92e,https://fbref.com/en/squads/e24ac92e/history/Debrecen-Stats-and-History
+Újpest (M),108607cf,https://fbref.com/en/squads/108607cf/history/Ujpest-Stats-and-History
+Paks (M),db2b616c,https://fbref.com/en/squads/db2b616c/history/Paks-Stats-and-History
+MTK Budapest (M),e44db2c6,https://fbref.com/en/squads/e44db2c6/history/MTK-Budapest-Stats-and-History
+Men,f51a42e5,https://fbref.com/en/squads/f51a42e5/history/Iceland-Men-Stats-and-History
+Women,ecb5d7d5,https://fbref.com/en/squads/ecb5d7d5/history/Iceland-Women-Stats-and-History
+Breiðablik (F),005a8517,https://fbref.com/en/squads/005a8517/history/Breidablik-Women-Stats-and-History
+FH (M),9ac2ced1,https://fbref.com/en/squads/9ac2ced1/history/FH-Stats-and-History
+KR (M),ae156985,https://fbref.com/en/squads/ae156985/history/KR-Stats-and-History
+Stjarnan (F),50fbb58d,https://fbref.com/en/squads/50fbb58d/history/Stjarnan-Women-Stats-and-History
+Valur (F),2aa6d10a,https://fbref.com/en/squads/2aa6d10a/history/Valur-Women-Stats-and-History
+Breiðablik (M),4a29fb1c,https://fbref.com/en/squads/4a29fb1c/history/Breidablik-Stats-and-History
+Men,6b57f0a7,https://fbref.com/en/squads/6b57f0a7/history/India-Men-Stats-and-History
+Women,3257b64b,https://fbref.com/en/squads/3257b64b/history/India-Women-Stats-and-History
+Mohun Bagan (M),5c7eb1c7,https://fbref.com/en/squads/5c7eb1c7/history/Mohun-Bagan-Stats-and-History
+Bengaluru (M),d6997457,https://fbref.com/en/squads/d6997457/history/Bengaluru-Stats-and-History
+Mumbai City (M),1ae5d154,https://fbref.com/en/squads/1ae5d154/history/Mumbai-City-Stats-and-History
+Goa (M),3249478a,https://fbref.com/en/squads/3249478a/history/Goa-Stats-and-History
+East Bengal (M),366f89ff,https://fbref.com/en/squads/366f89ff/history/East-Bengal-Stats-and-History
+Kerala Blasters (M),38c56c1f,https://fbref.com/en/squads/38c56c1f/history/Kerala-Blasters-Stats-and-History
+Men,6a08f71e,https://fbref.com/en/squads/6a08f71e/history/IR-Iran-Men-Stats-and-History
+Women,a495cb02,https://fbref.com/en/squads/a495cb02/history/IR-Iran-Women-Stats-and-History
+Persepolis (M),95f42e44,https://fbref.com/en/squads/95f42e44/history/Persepolis-Stats-and-History
+Esteghlal (M),fe550dbf,https://fbref.com/en/squads/fe550dbf/history/Esteghlal-Stats-and-History
+Sepahan (M),e39cf61a,https://fbref.com/en/squads/e39cf61a/history/Sepahan-Stats-and-History
+Tractor (M),0230c3aa,https://fbref.com/en/squads/0230c3aa/history/Tractor-Stats-and-History
+Foolad (M),aa3eb1d3,https://fbref.com/en/squads/aa3eb1d3/history/Foolad-Stats-and-History
+Zob Ahan (M),f8106fc0,https://fbref.com/en/squads/f8106fc0/history/Zob-Ahan-Stats-and-History
+Men,b36227ec,https://fbref.com/en/squads/b36227ec/history/Israel-Men-Stats-and-History
+Women,177ce357,https://fbref.com/en/squads/177ce357/history/Israel-Women-Stats-and-History
+Maccabi Tel Aviv FC (M),04c011d8,https://fbref.com/en/squads/04c011d8/history/Maccabi-Tel-Aviv-FC-Stats-and-History
+Maccabi Haifa FC (M),187832f5,https://fbref.com/en/squads/187832f5/history/Maccabi-Haifa-FC-Stats-and-History
+Hapoel Tel Aviv FC (M),8bb196a5,https://fbref.com/en/squads/8bb196a5/history/Hapoel-Tel-Aviv-FC-Stats-and-History
+Hapoel Be'er Sheva FC (M),133013ee,https://fbref.com/en/squads/133013ee/history/Hapoel-Beer-Sheva-FC-Stats-and-History
+Beitar Jerusalem (M),79000faa,https://fbref.com/en/squads/79000faa/history/Beitar-Jerusalem-Stats-and-History
+Bnei Yehuda Tel Aviv (M),1040e0f7,https://fbref.com/en/squads/1040e0f7/history/Bnei-Yehuda-Tel-Aviv-Stats-and-History
+Men,998c5958,https://fbref.com/en/squads/998c5958/history/Italy-Men-Stats-and-History
+Women,379e8f43,https://fbref.com/en/squads/379e8f43/history/Italy-Women-Stats-and-History
+Juventus (M),e0652b02,https://fbref.com/en/squads/e0652b02/history/Juventus-Stats-and-History
+Milan (M),dc56fe14,https://fbref.com/en/squads/dc56fe14/history/Milan-Stats-and-History
+Napoli (M),d48ad4ff,https://fbref.com/en/squads/d48ad4ff/history/Napoli-Stats-and-History
+Men,189bdbbd,https://fbref.com/en/squads/189bdbbd/history/Jamaica-Men-Stats-and-History
+Women,341db2fd,https://fbref.com/en/squads/341db2fd/history/Jamaica-Women-Stats-and-History
+Mount Pleasant (M),28ec58a5,https://fbref.com/en/squads/28ec58a5/history/Mount-Pleasant-Stats-and-History
+Cavalier FC (M),37776575,https://fbref.com/en/squads/37776575/history/Cavalier-FC-Stats-and-History
+Portmore United FC (M),e035ae8f,https://fbref.com/en/squads/e035ae8f/history/Portmore-United-FC-Stats-and-History
+Men,ffcf1690,https://fbref.com/en/squads/ffcf1690/history/Japan-Men-Stats-and-History
+Women,4210f192,https://fbref.com/en/squads/4210f192/history/Japan-Women-Stats-and-History
+Kawasaki Frontale (M),858d58b2,https://fbref.com/en/squads/858d58b2/history/Kawasaki-Frontale-Stats-and-History
+Kashima Antlers (M),dd694b37,https://fbref.com/en/squads/dd694b37/history/Kashima-Antlers-Stats-and-History
+Sanfrecce Hiroshima (M),a33a1d8d,https://fbref.com/en/squads/a33a1d8d/history/Sanfrecce-Hiroshima-Stats-and-History
+Urawa Red Diamonds (M),f812e711,https://fbref.com/en/squads/f812e711/history/Urawa-Red-Diamonds-Stats-and-History
+Yokohama F. Marinos (M),3ded797c,https://fbref.com/en/squads/3ded797c/history/Yokohama-F-Marinos-Stats-and-History
+FC Tokyo (M),967b10be,https://fbref.com/en/squads/967b10be/history/FC-Tokyo-Stats-and-History
+Men,1909c17c,https://fbref.com/en/squads/1909c17c/history/Kazakhstan-Men-Stats-and-History
+Women,7618aaac,https://fbref.com/en/squads/7618aaac/history/Kazakhstan-Women-Stats-and-History
+FC Astana (M),c72c8787,https://fbref.com/en/squads/c72c8787/history/FC-Astana-Stats-and-History
+BIIK Kazygurt (F),6f6ee141,https://fbref.com/en/squads/6f6ee141/history/BIIK-Kazygurt-Stats-and-History
+FC Kairat (M),768fb565,https://fbref.com/en/squads/768fb565/history/FC-Kairat-Stats-and-History
+FC Aktobe (M),c8282e20,https://fbref.com/en/squads/c8282e20/history/FC-Aktobe-Stats-and-History
+Shakhter Karagandy (M),a8ba56e5,https://fbref.com/en/squads/a8ba56e5/history/Shakhter-Karagandy-Stats-and-History
+FC Tobol (M),8c6383a1,https://fbref.com/en/squads/8c6383a1/history/FC-Tobol-Stats-and-History
+Men,473f0fbf,https://fbref.com/en/squads/473f0fbf/history/Korea-Republic-Men-Stats-and-History
+Women,2dd124da,https://fbref.com/en/squads/2dd124da/history/Korea-Republic-Women-Stats-and-History
+Jeonbuk Hyundai Motors (M),ae23a242,https://fbref.com/en/squads/ae23a242/history/Jeonbuk-Hyundai-Motors-Stats-and-History
+Ulsan HD (M),4372a20b,https://fbref.com/en/squads/4372a20b/history/Ulsan-HD-Stats-and-History
+Pohang Steelers (M),82d18831,https://fbref.com/en/squads/82d18831/history/Pohang-Steelers-Stats-and-History
+FC Seoul (M),e03e5172,https://fbref.com/en/squads/e03e5172/history/FC-Seoul-Stats-and-History
+Jeju United (M),e1e9c597,https://fbref.com/en/squads/e1e9c597/history/Jeju-United-Stats-and-History
+Incheon United (M),c1e93cb7,https://fbref.com/en/squads/c1e93cb7/history/Incheon-United-Stats-and-History
+Men,b2629e33,https://fbref.com/en/squads/b2629e33/history/Kosovo-Men-Stats-and-History
+Women,1bce6b3f,https://fbref.com/en/squads/1bce6b3f/history/Kosovo-Women-Stats-and-History
+Mitrovica (F),874efae9,https://fbref.com/en/squads/874efae9/history/Mitrovica-Stats-and-History
+KF Drita (M),77b23ba3,https://fbref.com/en/squads/77b23ba3/history/KF-Drita-Stats-and-History
+FC Prishtina (M),7de37644,https://fbref.com/en/squads/7de37644/history/FC-Prishtina-Stats-and-History
+KF Ballkani Therandë (M),1ebfb2aa,https://fbref.com/en/squads/1ebfb2aa/history/KF-Ballkani-Therande-Stats-and-History
+KFF EP-Com Hajvalia (F),c6bd5ba1,https://fbref.com/en/squads/c6bd5ba1/history/KFF-EP-Com-Hajvalia-Stats-and-History
+Hajvalia (F),9d12423d,https://fbref.com/en/squads/9d12423d/history/Hajvalia-Stats-and-History
+Men,213d5b0c,https://fbref.com/en/squads/213d5b0c/history/Latvia-Men-Stats-and-History
+Women,640d9bf1,https://fbref.com/en/squads/640d9bf1/history/Latvia-Women-Stats-and-History
+Skonto FC (M),89873a40,https://fbref.com/en/squads/89873a40/history/Skonto-FC-Stats-and-History
+FK Ventspils (M),869a3b6a,https://fbref.com/en/squads/869a3b6a/history/FK-Ventspils-Stats-and-History
+FK Liepājas Metalurgs (M),289b7de6,https://fbref.com/en/squads/289b7de6/history/FK-Liepajas-Metalurgs-Stats-and-History
+RFS (M),7c90642e,https://fbref.com/en/squads/7c90642e/history/RFS-Stats-and-History
+Spartaks Jūrmala (M),654ac5a4,https://fbref.com/en/squads/654ac5a4/history/Spartaks-Jurmala-Stats-and-History
+FK Jelgava (M),8a898dad,https://fbref.com/en/squads/8a898dad/history/FK-Jelgava-Stats-and-History
+Men,c8f74183,https://fbref.com/en/squads/c8f74183/history/Liechtenstein-Men-Stats-and-History
+Women,bd8a4229,https://fbref.com/en/squads/bd8a4229/history/Liechtenstein-Women-Stats-and-History
+Vaduz (M),b1b46fc3,https://fbref.com/en/squads/b1b46fc3/history/Vaduz-Stats-and-History
+USV Eschen/Mauren (M),296285e0,https://fbref.com/en/squads/296285e0/history/USV-EschenMauren-Stats-and-History
+Men,d0683956,https://fbref.com/en/squads/d0683956/history/Lithuania-Men-Stats-and-History
+Women,f0215fc9,https://fbref.com/en/squads/f0215fc9/history/Lithuania-Women-Stats-and-History
+Gintra (F),29ee35e0,https://fbref.com/en/squads/29ee35e0/history/Gintra-Stats-and-History
+Žalgiris (M),4c6489de,https://fbref.com/en/squads/4c6489de/history/Zalgiris-Stats-and-History
+FBK Kaunas (M),816a9742,https://fbref.com/en/squads/816a9742/history/FBK-Kaunas-Stats-and-History
+FK Sūduva Marijampolė (M),9e3153f3,https://fbref.com/en/squads/9e3153f3/history/FK-Suduva-Marijampole-Stats-and-History
+FK Ekranas (M),3ca079d2,https://fbref.com/en/squads/3ca079d2/history/FK-Ekranas-Stats-and-History
+Riteriai (M),49a61d12,https://fbref.com/en/squads/49a61d12/history/Riteriai-Stats-and-History
+Men,244d97b1,https://fbref.com/en/squads/244d97b1/history/Luxembourg-Men-Stats-and-History
+Women,bff5a020,https://fbref.com/en/squads/bff5a020/history/Luxembourg-Women-Stats-and-History
+F91 Dudelange (M),baae133b,https://fbref.com/en/squads/baae133b/history/F91-Dudelange-Stats-and-History
+Differdange (M),58ff3cd4,https://fbref.com/en/squads/58ff3cd4/history/Differdange-Stats-and-History
+Racing-Union (F),dfe62afe,https://fbref.com/en/squads/dfe62afe/history/Racing-Union-Women-Stats-and-History
+Progrès Niederkorn (M),ec560e72,https://fbref.com/en/squads/ec560e72/history/Progres-Niederkorn-Stats-and-History
+CS Fola Esch (M),aa065002,https://fbref.com/en/squads/aa065002/history/CS-Fola-Esch-Stats-and-History
+Jeunesse Esch (M),f1849f98,https://fbref.com/en/squads/f1849f98/history/Jeunesse-Esch-Stats-and-History
+Men,686b37b1,https://fbref.com/en/squads/686b37b1/history/Malta-Men-Stats-and-History
+Women,3986cda2,https://fbref.com/en/squads/3986cda2/history/Malta-Women-Stats-and-History
+Valletta FC (M),3f53cc7a,https://fbref.com/en/squads/3f53cc7a/history/Valletta-FC-Stats-and-History
+Birkirkara FC (M),7bb567b2,https://fbref.com/en/squads/7bb567b2/history/Birkirkara-FC-Stats-and-History
+Hibernians FC (M),0faf8f33,https://fbref.com/en/squads/0faf8f33/history/Hibernians-FC-Stats-and-History
+Floriana FC (M),9c088d4e,https://fbref.com/en/squads/9c088d4e/history/Floriana-FC-Stats-and-History
+Birkirkara (F),7ba81fac,https://fbref.com/en/squads/7ba81fac/history/Birkirkara-Stats-and-History
+Sliema Wanderers (M),7465f27b,https://fbref.com/en/squads/7465f27b/history/Sliema-Wanderers-Stats-and-History
+Men,8a97cf18,https://fbref.com/en/squads/8a97cf18/history/Martinique-Men-Stats-and-History
+Women,d22f72fb,https://fbref.com/en/squads/d22f72fb/history/Martinique-Women-Stats-and-History
+AO Eveil des Trois-Ilets (M),5f472462,https://fbref.com/en/squads/5f472462/history/AO-Eveil-des-Trois-Ilets-Stats-and-History
+RC Saint-Joseph (M),76ca939d,https://fbref.com/en/squads/76ca939d/history/RC-Saint-Joseph-Stats-and-History
+Golden Lion FC (M),ab204822,https://fbref.com/en/squads/ab204822/history/Golden-Lion-FC-Stats-and-History
+l'Espoir de Sainte Luce (M),d9490713,https://fbref.com/en/squads/d9490713/history/lEspoir-de-Sainte-Luce-Stats-and-History
+Men,b009a548,https://fbref.com/en/squads/b009a548/history/Mexico-Men-Stats-and-History
+Women,38307241,https://fbref.com/en/squads/38307241/history/Mexico-Women-Stats-and-History
+América (M),18d3c3a3,https://fbref.com/en/squads/18d3c3a3/history/America-Stats-and-History
+Cruz Azul (M),632f1838,https://fbref.com/en/squads/632f1838/history/Cruz-Azul-Stats-and-History
+Toluca (M),44b88a4e,https://fbref.com/en/squads/44b88a4e/history/Toluca-Stats-and-History
+Tigres UANL (M),d9e1bd51,https://fbref.com/en/squads/d9e1bd51/history/Tigres-UANL-Stats-and-History
+Monterrey (M),dd5ca9bd,https://fbref.com/en/squads/dd5ca9bd/history/Monterrey-Stats-and-History
+Pachuca (M),1be8d2e3,https://fbref.com/en/squads/1be8d2e3/history/Pachuca-Stats-and-History
+Men,30681b8c,https://fbref.com/en/squads/30681b8c/history/Moldova-Men-Stats-and-History
+Women,9a6a4294,https://fbref.com/en/squads/9a6a4294/history/Moldova-Women-Stats-and-History
+FC Sheriff Tiraspol (M),50995c1e,https://fbref.com/en/squads/50995c1e/history/FC-Sheriff-Tiraspol-Stats-and-History
+Zimbru Chişinău (M),24cd860c,https://fbref.com/en/squads/24cd860c/history/Zimbru-Chisinau-Stats-and-History
+FC Dacia Chișinău (M),3cb9ad76,https://fbref.com/en/squads/3cb9ad76/history/FC-Dacia-Chisinau-Stats-and-History
+FC Milsami Orhei (M),7795f801,https://fbref.com/en/squads/7795f801/history/FC-Milsami-Orhei-Stats-and-History
+FC Nistru Otaci (M),c586e431,https://fbref.com/en/squads/c586e431/history/FC-Nistru-Otaci-Stats-and-History
+Petrocub Hîncești (M),ae96366c,https://fbref.com/en/squads/ae96366c/history/Petrocub-Hincesti-Stats-and-History
+Men,c7597f2f,https://fbref.com/en/squads/c7597f2f/history/Montenegro-Men-Stats-and-History
+Women,b05ddc67,https://fbref.com/en/squads/b05ddc67/history/Montenegro-Women-Stats-and-History
+Budućnost Podgorica (M),f4f98e1c,https://fbref.com/en/squads/f4f98e1c/history/Buducnost-Podgorica-Stats-and-History
+OFK Titograd (M),8dc7bf66,https://fbref.com/en/squads/8dc7bf66/history/OFK-Titograd-Stats-and-History
+FK Zeta (M),bda134f7,https://fbref.com/en/squads/bda134f7/history/FK-Zeta-Stats-and-History
+Breznica (F),e065a5a4,https://fbref.com/en/squads/e065a5a4/history/Breznica-Stats-and-History
+Rudar Pljevlja (M),fe8bc2a6,https://fbref.com/en/squads/fe8bc2a6/history/Rudar-Pljevlja-Stats-and-History
+FK Mogren (M),d5bd7be2,https://fbref.com/en/squads/d5bd7be2/history/FK-Mogren-Stats-and-History
+Men,af41ccda,https://fbref.com/en/squads/af41ccda/history/Morocco-Men-Stats-and-History
+Women,63be3c0c,https://fbref.com/en/squads/63be3c0c/history/Morocco-Women-Stats-and-History
+Wydad AC (M),819c79ad,https://fbref.com/en/squads/819c79ad/history/Wydad-AC-Stats-and-History
+Men,5bb5024a,https://fbref.com/en/squads/5bb5024a/history/Netherlands-Men-Stats-and-History
+Women,ec991a3d,https://fbref.com/en/squads/ec991a3d/history/Netherlands-Women-Stats-and-History
+PSV Eindhoven (M),e334d850,https://fbref.com/en/squads/e334d850/history/PSV-Eindhoven-Stats-and-History
+Ajax (M),19c3f8c4,https://fbref.com/en/squads/19c3f8c4/history/Ajax-Stats-and-History
+Feyenoord (M),fb4ca611,https://fbref.com/en/squads/fb4ca611/history/Feyenoord-Stats-and-History
+AZ Alkmaar (M),3986b791,https://fbref.com/en/squads/3986b791/history/AZ-Alkmaar-Stats-and-History
+Twente (M),a1f721d3,https://fbref.com/en/squads/a1f721d3/history/Twente-Stats-and-History
+Utrecht (M),2a428619,https://fbref.com/en/squads/2a428619/history/Utrecht-Stats-and-History
+Men,259855f0,https://fbref.com/en/squads/259855f0/history/New-Zealand-Men-Stats-and-History
+Women,eb8b58bd,https://fbref.com/en/squads/eb8b58bd/history/New-Zealand-Women-Stats-and-History
+Wellington Phoenix (M),81134e0b,https://fbref.com/en/squads/81134e0b/history/Wellington-Phoenix-Stats-and-History
+Wellington Phoenix (F),bc52ac89,https://fbref.com/en/squads/bc52ac89/history/Wellington-Phoenix-Stats-and-History
+Auckland FC (M),4cb614ef,https://fbref.com/en/squads/4cb614ef/history/Auckland-FC-Stats-and-History
+New Zealand Knights (M),f6e449d9,https://fbref.com/en/squads/f6e449d9/history/New-Zealand-Knights-Stats-and-History
+Auckland City (M),8aa5f4ed,https://fbref.com/en/squads/8aa5f4ed/history/Auckland-City-Stats-and-History
+Men,c00b7b1e,https://fbref.com/en/squads/c00b7b1e/history/Nicaragua-Men-Stats-and-History
+Women,6d948b41,https://fbref.com/en/squads/6d948b41/history/Nicaragua-Women-Stats-and-History
+Real Estelí (M),8405639b,https://fbref.com/en/squads/8405639b/history/Real-Esteli-Stats-and-History
+Men,d6f326ae,https://fbref.com/en/squads/d6f326ae/history/North-Macedonia-Men-Stats-and-History
+Women,307cc846,https://fbref.com/en/squads/307cc846/history/North-Macedonia-Women-Stats-and-History
+Rabotnički (M),4ebc9920,https://fbref.com/en/squads/4ebc9920/history/Rabotnicki-Stats-and-History
+FK Shkëndija (M),c480c810,https://fbref.com/en/squads/c480c810/history/FK-Shkendija-Stats-and-History
+FK Vardar (M),5b47810a,https://fbref.com/en/squads/5b47810a/history/FK-Vardar-Stats-and-History
+Ljuboten (F),9bb79f59,https://fbref.com/en/squads/9bb79f59/history/Ljuboten-Stats-and-History
+FK Renova (M),623ecff4,https://fbref.com/en/squads/623ecff4/history/FK-Renova-Stats-and-History
+FK Pobeda (M),c306c0bb,https://fbref.com/en/squads/c306c0bb/history/FK-Pobeda-Stats-and-History
+Men,16944ae1,https://fbref.com/en/squads/16944ae1/history/Northern-Ireland-Men-Stats-and-History
+Women,80199857,https://fbref.com/en/squads/80199857/history/Northern-Ireland-Women-Stats-and-History
+Linfield FC (M),4c96013a,https://fbref.com/en/squads/4c96013a/history/Linfield-FC-Stats-and-History
+Glentoran (F),23b52962,https://fbref.com/en/squads/23b52962/history/Glentoran-Women-Stats-and-History
+Crusaders FC (M),0b6cd7c6,https://fbref.com/en/squads/0b6cd7c6/history/Crusaders-FC-Stats-and-History
+Cliftonville FC (M),5a130b7c,https://fbref.com/en/squads/5a130b7c/history/Cliftonville-FC-Stats-and-History
+Glentoran (M),eaa4ec68,https://fbref.com/en/squads/eaa4ec68/history/Glentoran-Stats-and-History
+Larne FC (M),6a40bca0,https://fbref.com/en/squads/6a40bca0/history/Larne-FC-Stats-and-History
+Men,599eba19,https://fbref.com/en/squads/599eba19/history/Norway-Men-Stats-and-History
+Women,1ec54f37,https://fbref.com/en/squads/1ec54f37/history/Norway-Women-Stats-and-History
+Rosenborg (M),90e37d3a,https://fbref.com/en/squads/90e37d3a/history/Rosenborg-Stats-and-History
+Molde (M),174bd5a0,https://fbref.com/en/squads/174bd5a0/history/Molde-Stats-and-History
+Viking (M),0b26f976,https://fbref.com/en/squads/0b26f976/history/Viking-Stats-and-History
+Brann (M),aeae4fe1,https://fbref.com/en/squads/aeae4fe1/history/Brann-Stats-and-History
+Vålerenga (M),60aa17d7,https://fbref.com/en/squads/60aa17d7/history/Valerenga-Stats-and-History
+Odd (M),b70ec3fa,https://fbref.com/en/squads/b70ec3fa/history/Odd-Stats-and-History
+Men,6061a82d,https://fbref.com/en/squads/6061a82d/history/Panama-Men-Stats-and-History
+Women,bc99604a,https://fbref.com/en/squads/bc99604a/history/Panama-Women-Stats-and-History
+Sporting San Miguelito (M),a9805116,https://fbref.com/en/squads/a9805116/history/Sporting-San-Miguelito-Stats-and-History
+CA Independiente (M),223a989a,https://fbref.com/en/squads/223a989a/history/CA-Independiente-Stats-and-History
+Tauro (M),573776c5,https://fbref.com/en/squads/573776c5/history/Tauro-Stats-and-History
+Men,d2043442,https://fbref.com/en/squads/d2043442/history/Paraguay-Men-Stats-and-History
+Women,97ae7942,https://fbref.com/en/squads/97ae7942/history/Paraguay-Women-Stats-and-History
+Cerro Porteño (M),e4cd6f9a,https://fbref.com/en/squads/e4cd6f9a/history/Cerro-Porteno-Stats-and-History
+Libertad (M),ae107695,https://fbref.com/en/squads/ae107695/history/Libertad-Stats-and-History
+Club Olimpia (M),4d4fc0b8,https://fbref.com/en/squads/4d4fc0b8/history/Club-Olimpia-Stats-and-History
+Guaraní (M),6c3c25bd,https://fbref.com/en/squads/6c3c25bd/history/Guarani-Stats-and-History
+Club Nacional (M),264fce29,https://fbref.com/en/squads/264fce29/history/Club-Nacional-Stats-and-History
+Sportivo Luqueño (M),d7e6c419,https://fbref.com/en/squads/d7e6c419/history/Sportivo-Luqueno-Stats-and-History
+Men,f711c854,https://fbref.com/en/squads/f711c854/history/Peru-Men-Stats-and-History
+Women,b424ab73,https://fbref.com/en/squads/b424ab73/history/Peru-Women-Stats-and-History
+Sporting Cristal (M),8917b8a9,https://fbref.com/en/squads/8917b8a9/history/Sporting-Cristal-Stats-and-History
+Alianza Lima (M),cdbccdc1,https://fbref.com/en/squads/cdbccdc1/history/Alianza-Lima-Stats-and-History
+Melgar (M),87ffd947,https://fbref.com/en/squads/87ffd947/history/Melgar-Stats-and-History
+Universitario (M),e4108102,https://fbref.com/en/squads/e4108102/history/Universitario-Stats-and-History
+Sport Huancayo (M),d7ba2e36,https://fbref.com/en/squads/d7ba2e36/history/Sport-Huancayo-Stats-and-History
+Cusco (M),d4f8af71,https://fbref.com/en/squads/d4f8af71/history/Cusco-Stats-and-History
+Men,8912dcf0,https://fbref.com/en/squads/8912dcf0/history/Poland-Men-Stats-and-History
+Women,ee429419,https://fbref.com/en/squads/ee429419/history/Poland-Women-Stats-and-History
+Legia Warsaw (M),a73408a7,https://fbref.com/en/squads/a73408a7/history/Legia-Warsaw-Stats-and-History
+Lech Poznań (M),fdba14df,https://fbref.com/en/squads/fdba14df/history/Lech-Poznan-Stats-and-History
+Wisła Kraków (M),162ec40d,https://fbref.com/en/squads/162ec40d/history/Wisla-Krakow-Stats-and-History
+Jagiellonia (M),4f7b798d,https://fbref.com/en/squads/4f7b798d/history/Jagiellonia-Stats-and-History
+Górnik Zabrze (M),d2f21b23,https://fbref.com/en/squads/d2f21b23/history/Gornik-Zabrze-Stats-and-History
+Zagłębie Lubin (M),3458af25,https://fbref.com/en/squads/3458af25/history/Zaglebie-Lubin-Stats-and-History
+Men,4a1b4ea8,https://fbref.com/en/squads/4a1b4ea8/history/Portugal-Men-Stats-and-History
+Women,29332db8,https://fbref.com/en/squads/29332db8/history/Portugal-Women-Stats-and-History
+Porto (M),5e876ee6,https://fbref.com/en/squads/5e876ee6/history/Porto-Stats-and-History
+Benfica (M),a77c513e,https://fbref.com/en/squads/a77c513e/history/Benfica-Stats-and-History
+Sporting CP (M),13dc44fd,https://fbref.com/en/squads/13dc44fd/history/Sporting-CP-Stats-and-History
+Braga (M),69d84c29,https://fbref.com/en/squads/69d84c29/history/Braga-Stats-and-History
+Vitória Guimarães (M),3f319bc9,https://fbref.com/en/squads/3f319bc9/history/Vitoria-Guimaraes-Stats-and-History
+Marítimo (M),c1b0f61b,https://fbref.com/en/squads/c1b0f61b/history/Maritimo-Stats-and-History
+Men,6728feaa,https://fbref.com/en/squads/6728feaa/history/Puerto-Rico-Men-Stats-and-History
+Women,12ee3822,https://fbref.com/en/squads/12ee3822/history/Puerto-Rico-Women-Stats-and-History
+Puerto Rico FC (M),7a646b77,https://fbref.com/en/squads/7a646b77/history/Puerto-Rico-FC-Stats-and-History
+Men,9b696ed1,https://fbref.com/en/squads/9b696ed1/history/Qatar-Men-Stats-and-History
+Al Duhail SC (M),cb963e95,https://fbref.com/en/squads/cb963e95/history/Al-Duhail-SC-Stats-and-History
+Al Sadd (M),d6a1c80d,https://fbref.com/en/squads/d6a1c80d/history/Al-Sadd-Stats-and-History
+Men,62e09cb6,https://fbref.com/en/squads/62e09cb6/history/Republic-of-Ireland-Men-Stats-and-History
+Women,cc7a657e,https://fbref.com/en/squads/cc7a657e/history/Republic-of-Ireland-Women-Stats-and-History
+Shamrock Rovers (M),f082c4f3,https://fbref.com/en/squads/f082c4f3/history/Shamrock-Rovers-Stats-and-History
+Dundalk FC (M),e4a9d483,https://fbref.com/en/squads/e4a9d483/history/Dundalk-FC-Stats-and-History
+St Patrick's Athletic (M),8a814429,https://fbref.com/en/squads/8a814429/history/St-Patricks-Athletic-Stats-and-History
+Derry City (M),15f9a98b,https://fbref.com/en/squads/15f9a98b/history/Derry-City-Stats-and-History
+Bohemian FC (M),2cf146dc,https://fbref.com/en/squads/2cf146dc/history/Bohemian-FC-Stats-and-History
+Sligo Rovers (M),0baacc84,https://fbref.com/en/squads/0baacc84/history/Sligo-Rovers-Stats-and-History
+La Tamponnaise (M),0c7e735f,https://fbref.com/en/squads/0c7e735f/history/La-Tamponnaise-Stats-and-History
+Saint-Denis FC (M),0d650ddf,https://fbref.com/en/squads/0d650ddf/history/Saint-Denis-FC-Stats-and-History
+ES Dominicaine (M),6059bda0,https://fbref.com/en/squads/6059bda0/history/ES-Dominicaine-Stats-and-History
+ASC Makes (M),941ace54,https://fbref.com/en/squads/941ace54/history/ASC-Makes-Stats-and-History
+Sainte-Suzanne (M),95b04c1c,https://fbref.com/en/squads/95b04c1c/history/Sainte-Suzanne-Stats-and-History
+Men,7def9493,https://fbref.com/en/squads/7def9493/history/Romania-Men-Stats-and-History
+Women,50351f38,https://fbref.com/en/squads/50351f38/history/Romania-Women-Stats-and-History
+FCSB (M),aed59852,https://fbref.com/en/squads/aed59852/history/FCSB-Stats-and-History
+CFR Cluj (M),ff04e205,https://fbref.com/en/squads/ff04e205/history/CFR-Cluj-Stats-and-History
+Dinamo București (M),4472d406,https://fbref.com/en/squads/4472d406/history/Dinamo-Bucuresti-Stats-and-History
+CS Universitatea Craiova (M),1eebf7c3,https://fbref.com/en/squads/1eebf7c3/history/CS-Universitatea-Craiova-Stats-and-History
+Rapid București (M),099e0a8b,https://fbref.com/en/squads/099e0a8b/history/Rapid-Bucuresti-Stats-and-History
+Botoșani (M),d921c99f,https://fbref.com/en/squads/d921c99f/history/Botosani-Stats-and-History
+Men,21ced9fe,https://fbref.com/en/squads/21ced9fe/history/Russia-Men-Stats-and-History
+Women,12032ec6,https://fbref.com/en/squads/12032ec6/history/Russia-Women-Stats-and-History
+Zenit (M),98ce363d,https://fbref.com/en/squads/98ce363d/history/Zenit-Stats-and-History
+CSKA Moscow (M),f0c0c2c2,https://fbref.com/en/squads/f0c0c2c2/history/CSKA-Moscow-Stats-and-History
+Spartak Moscow (M),8c635914,https://fbref.com/en/squads/8c635914/history/Spartak-Moscow-Stats-and-History
+Lokomotiv Moscow (M),5a8dc328,https://fbref.com/en/squads/5a8dc328/history/Lokomotiv-Moscow-Stats-and-History
+Dynamo Moscow (M),541a280b,https://fbref.com/en/squads/541a280b/history/Dynamo-Moscow-Stats-and-History
+Rubin Kazan (M),5625a7da,https://fbref.com/en/squads/5625a7da/history/Rubin-Kazan-Stats-and-History
+Men,2d5635e8,https://fbref.com/en/squads/2d5635e8/history/San-Marino-Men-Stats-and-History
+Women,e8c7cc9e,https://fbref.com/en/squads/e8c7cc9e/history/San-Marino-Women-Stats-and-History
+San Marino (F),20f5bd86,https://fbref.com/en/squads/20f5bd86/history/San-Marino-Stats-and-History
+Tre Fiori (M),017bcbe4,https://fbref.com/en/squads/017bcbe4/history/Tre-Fiori-Stats-and-History
+S.P. Tre Penne (M),aaffe678,https://fbref.com/en/squads/aaffe678/history/SP-Tre-Penne-Stats-and-History
+AC Libertas (M),1286546c,https://fbref.com/en/squads/1286546c/history/AC-Libertas-Stats-and-History
+S.P. La Fiorita (M),6de42722,https://fbref.com/en/squads/6de42722/history/SP-La-Fiorita-Stats-and-History
+SC Faetano (M),2f62b860,https://fbref.com/en/squads/2f62b860/history/SC-Faetano-Stats-and-History
+Men,6e84edac,https://fbref.com/en/squads/6e84edac/history/Saudi-Arabia-Men-Stats-and-History
+Women,eb71445d,https://fbref.com/en/squads/eb71445d/history/Saudi-Arabia-Women-Stats-and-History
+Al-Hilal (M),972e2539,https://fbref.com/en/squads/972e2539/history/Al-Hilal-Stats-and-History
+Al-Nassr (M),6baef27f,https://fbref.com/en/squads/6baef27f/history/Al-Nassr-Stats-and-History
+Al-Ittihad (M),e00d111d,https://fbref.com/en/squads/e00d111d/history/Al-Ittihad-Stats-and-History
+Al-Ahli (M),cb45d9cb,https://fbref.com/en/squads/cb45d9cb/history/Al-Ahli-Stats-and-History
+Al-Shabab (M),84bbaea6,https://fbref.com/en/squads/84bbaea6/history/Al-Shabab-Stats-and-History
+Al-Taawoun (M),776909d3,https://fbref.com/en/squads/776909d3/history/Al-Taawoun-Stats-and-History
+Men,602d3994,https://fbref.com/en/squads/602d3994/history/Scotland-Men-Stats-and-History
+Women,36e0de82,https://fbref.com/en/squads/36e0de82/history/Scotland-Women-Stats-and-History
+Celtic (M),b81aa4fa,https://fbref.com/en/squads/b81aa4fa/history/Celtic-Stats-and-History
+Rangers (M),86b7acd2,https://fbref.com/en/squads/86b7acd2/history/Rangers-Stats-and-History
+Aberdeen (M),8bbab7cf,https://fbref.com/en/squads/8bbab7cf/history/Aberdeen-Stats-and-History
+Heart of Midlothian (M),7c77b0bc,https://fbref.com/en/squads/7c77b0bc/history/Heart-of-Midlothian-Stats-and-History
+Hibernian (M),f3aacc58,https://fbref.com/en/squads/f3aacc58/history/Hibernian-Stats-and-History
+Motherwell (M),9d04848a,https://fbref.com/en/squads/9d04848a/history/Motherwell-Stats-and-History
+Men,1d6f5c9b,https://fbref.com/en/squads/1d6f5c9b/history/Serbia-Men-Stats-and-History
+Women,6422b35d,https://fbref.com/en/squads/6422b35d/history/Serbia-Women-Stats-and-History
+Red Star (M),099c6eb5,https://fbref.com/en/squads/099c6eb5/history/Red-Star-Stats-and-History
+Partizan (M),dde3e804,https://fbref.com/en/squads/dde3e804/history/Partizan-Stats-and-History
+Vojvodina (M),278db974,https://fbref.com/en/squads/278db974/history/Vojvodina-Stats-and-History
+Čukarički (M),42e847bc,https://fbref.com/en/squads/42e847bc/history/Cukaricki-Stats-and-History
+Spartak Subotica (M),6d139ec5,https://fbref.com/en/squads/6d139ec5/history/Spartak-Subotica-Stats-and-History
+Radnički Niš (M),72804f2b,https://fbref.com/en/squads/72804f2b/history/Radnicki-Nis-Stats-and-History
+Men,66cff10b,https://fbref.com/en/squads/66cff10b/history/Slovakia-Men-Stats-and-History
+Women,004fb4b4,https://fbref.com/en/squads/004fb4b4/history/Slovakia-Women-Stats-and-History
+Slovan Bratislava (M),ae7f2f70,https://fbref.com/en/squads/ae7f2f70/history/Slovan-Bratislava-Stats-and-History
+MŠK Žilina (M),e5dea1f1,https://fbref.com/en/squads/e5dea1f1/history/MSK-Zilina-Stats-and-History
+FC Petržalka (M),6c6f5a68,https://fbref.com/en/squads/6c6f5a68/history/FC-Petrzalka-Stats-and-History
+FC Spartak Trnava (M),c16f1fe7,https://fbref.com/en/squads/c16f1fe7/history/FC-Spartak-Trnava-Stats-and-History
+Košice (M),f75c6442,https://fbref.com/en/squads/f75c6442/history/Kosice-Stats-and-History
+Inter Bratislava (M),d74e7b7c,https://fbref.com/en/squads/d74e7b7c/history/Inter-Bratislava-Stats-and-History
+Men,6b9f868f,https://fbref.com/en/squads/6b9f868f/history/Slovenia-Men-Stats-and-History
+Women,cdc91dc5,https://fbref.com/en/squads/cdc91dc5/history/Slovenia-Women-Stats-and-History
+NK Maribor (M),2aae7689,https://fbref.com/en/squads/2aae7689/history/NK-Maribor-Stats-and-History
+NK Domžale (M),8ac05d3e,https://fbref.com/en/squads/8ac05d3e/history/NK-Domzale-Stats-and-History
+Pomurje (F),b80262ea,https://fbref.com/en/squads/b80262ea/history/Pomurje-Stats-and-History
+Olimpija Ljubljana (M),8ae75624,https://fbref.com/en/squads/8ae75624/history/Olimpija-Ljubljana-Stats-and-History
+Olimpija Ljubljana (M),892ab902,https://fbref.com/en/squads/892ab902/history/Olimpija-Ljubljana-Stats-and-History
+ND Gorica (M),e404a61d,https://fbref.com/en/squads/e404a61d/history/ND-Gorica-Stats-and-History
+Men,506f1741,https://fbref.com/en/squads/506f1741/history/South-Africa-Men-Stats-and-History
+Women,6f384ffd,https://fbref.com/en/squads/6f384ffd/history/South-Africa-Women-Stats-and-History
+Mamelodi Sundowns (M),97d80fef,https://fbref.com/en/squads/97d80fef/history/Mamelodi-Sundowns-Stats-and-History
+Orlando Pirates (M),b8a68959,https://fbref.com/en/squads/b8a68959/history/Orlando-Pirates-Stats-and-History
+Kaizer Chiefs (M),2898ec06,https://fbref.com/en/squads/2898ec06/history/Kaizer-Chiefs-Stats-and-History
+SuperSport United (M),c96d819b,https://fbref.com/en/squads/c96d819b/history/SuperSport-United-Stats-and-History
+Lamontville Golden Arrows (M),bf882670,https://fbref.com/en/squads/bf882670/history/Lamontville-Golden-Arrows-Stats-and-History
+Cape Town City (M),98cc9e1b,https://fbref.com/en/squads/98cc9e1b/history/Cape-Town-City-Stats-and-History
+Men,b561dd30,https://fbref.com/en/squads/b561dd30/history/Spain-Men-Stats-and-History
+Women,97d1aa04,https://fbref.com/en/squads/97d1aa04/history/Spain-Women-Stats-and-History
+Valencia (M),dcc91a7b,https://fbref.com/en/squads/dcc91a7b/history/Valencia-Stats-and-History
+Sevilla (M),ad2be733,https://fbref.com/en/squads/ad2be733/history/Sevilla-Stats-and-History
+Athletic Club (M),2b390eca,https://fbref.com/en/squads/2b390eca/history/Athletic-Club-Stats-and-History
+Men,a0323e98,https://fbref.com/en/squads/a0323e98/history/Suriname-Men-Stats-and-History
+Women,ea84604f,https://fbref.com/en/squads/ea84604f/history/Suriname-Women-Stats-and-History
+SV Robinhood (M),de26a45c,https://fbref.com/en/squads/de26a45c/history/SV-Robinhood-Stats-and-History
+Men,296f69e7,https://fbref.com/en/squads/296f69e7/history/Sweden-Men-Stats-and-History
+Women,4173add7,https://fbref.com/en/squads/4173add7/history/Sweden-Women-Stats-and-History
+Malmö (M),f3d8c8b9,https://fbref.com/en/squads/f3d8c8b9/history/Malmo-Stats-and-History
+AIK Stockholm (M),b0333581,https://fbref.com/en/squads/b0333581/history/AIK-Stockholm-Stats-and-History
+Elfsborg (M),50e85bfc,https://fbref.com/en/squads/50e85bfc/history/Elfsborg-Stats-and-History
+Djurgården (M),9423c05a,https://fbref.com/en/squads/9423c05a/history/Djurgarden-Stats-and-History
+Göteborg (M),ef1ab26a,https://fbref.com/en/squads/ef1ab26a/history/Goteborg-Stats-and-History
+Hammarby (M),92bfd7f0,https://fbref.com/en/squads/92bfd7f0/history/Hammarby-Stats-and-History
+Men,81021a70,https://fbref.com/en/squads/81021a70/history/Switzerland-Men-Stats-and-History
+Women,b08f950e,https://fbref.com/en/squads/b08f950e/history/Switzerland-Women-Stats-and-History
+Basel (M),d3d9424a,https://fbref.com/en/squads/d3d9424a/history/Basel-Stats-and-History
+Young Boys (M),4b682260,https://fbref.com/en/squads/4b682260/history/Young-Boys-Stats-and-History
+Zürich (M),22a5a99c,https://fbref.com/en/squads/22a5a99c/history/Zurich-Stats-and-History
+St. Gallen (M),cdaf4e6d,https://fbref.com/en/squads/cdaf4e6d/history/St-Gallen-Stats-and-History
+Grasshopper (M),7b66a29c,https://fbref.com/en/squads/7b66a29c/history/Grasshopper-Stats-and-History
+Luzern (M),d423a378,https://fbref.com/en/squads/d423a378/history/Luzern-Stats-and-History
+Men,2df92663,https://fbref.com/en/squads/2df92663/history/Trinidad-and-Tobago-Men-Stats-and-History
+Women,178bd325,https://fbref.com/en/squads/178bd325/history/Trinidad-and-Tobago-Women-Stats-and-History
+Defence Force FC (M),abeb5edb,https://fbref.com/en/squads/abeb5edb/history/Defence-Force-FC-Stats-and-History
+Men,a7c7562a,https://fbref.com/en/squads/a7c7562a/history/Tunisia-Men-Stats-and-History
+Women,018a99bf,https://fbref.com/en/squads/018a99bf/history/Tunisia-Women-Stats-and-History
+Espérance de Tunis (M),b750be20,https://fbref.com/en/squads/b750be20/history/Esperance-de-Tunis-Stats-and-History
+Men,ac6bcf92,https://fbref.com/en/squads/ac6bcf92/history/Turkiye-Men-Stats-and-History
+Women,4d04874d,https://fbref.com/en/squads/4d04874d/history/Turkiye-Women-Stats-and-History
+Galatasaray (M),ecd11ca2,https://fbref.com/en/squads/ecd11ca2/history/Galatasaray-Stats-and-History
+Fenerbahçe (M),ae1e2d7d,https://fbref.com/en/squads/ae1e2d7d/history/Fenerbahce-Stats-and-History
+Beşiktaş (M),0f9294bd,https://fbref.com/en/squads/0f9294bd/history/Besiktas-Stats-and-History
+Trabzonspor (M),c8ad3091,https://fbref.com/en/squads/c8ad3091/history/Trabzonspor-Stats-and-History
+İstanbul Başakşehir (M),bff39cf5,https://fbref.com/en/squads/bff39cf5/history/Istanbul-Basaksehir-Stats-and-History
+Sivasspor (M),c63f6c0c,https://fbref.com/en/squads/c63f6c0c/history/Sivasspor-Stats-and-History
+Men,afa29a3e,https://fbref.com/en/squads/afa29a3e/history/Ukraine-Men-Stats-and-History
+Women,5b333628,https://fbref.com/en/squads/5b333628/history/Ukraine-Women-Stats-and-History
+Shakhtar Donetsk (M),e89d5a28,https://fbref.com/en/squads/e89d5a28/history/Shakhtar-Donetsk-Stats-and-History
+Dynamo Kyiv (M),c734e22f,https://fbref.com/en/squads/c734e22f/history/Dynamo-Kyiv-Stats-and-History
+Zorya Luhansk (M),946a30cb,https://fbref.com/en/squads/946a30cb/history/Zorya-Luhansk-Stats-and-History
+Vorskla Poltava (M),99f258c2,https://fbref.com/en/squads/99f258c2/history/Vorskla-Poltava-Stats-and-History
+FC Dnipro (M),c4770a69,https://fbref.com/en/squads/c4770a69/history/FC-Dnipro-Stats-and-History
+Metalist Kharkiv (M),44ef020f,https://fbref.com/en/squads/44ef020f/history/Metalist-Kharkiv-Stats-and-History
+Men,78cdba77,https://fbref.com/en/squads/78cdba77/history/United-Arab-Emirates-Men-Stats-and-History
+Women,ff9130eb,https://fbref.com/en/squads/ff9130eb/history/United-Arab-Emirates-Women-Stats-and-History
+Al Jazira Club (M),8214df43,https://fbref.com/en/squads/8214df43/history/Al-Jazira-Club-Stats-and-History
+Al Ain (M),9181eb96,https://fbref.com/en/squads/9181eb96/history/Al-Ain-Stats-and-History
+Men,0f66725b,https://fbref.com/en/squads/0f66725b/history/United-States-Men-Stats-and-History
+Women,1c912aa0,https://fbref.com/en/squads/1c912aa0/history/United-States-Women-Stats-and-History
+LA Galaxy (M),d8b46897,https://fbref.com/en/squads/d8b46897/history/LA-Galaxy-Stats-and-History
+Columbus Crew (M),529ba333,https://fbref.com/en/squads/529ba333/history/Columbus-Crew-Stats-and-History
+Red Bull New York (M),69a0fb10,https://fbref.com/en/squads/69a0fb10/history/Red-Bull-New-York-Stats-and-History
+Sporting Kansas City (M),4acb0537,https://fbref.com/en/squads/4acb0537/history/Sporting-Kansas-City-Stats-and-History
+New England Revolution (M),3c079def,https://fbref.com/en/squads/3c079def/history/New-England-Revolution-Stats-and-History
+Men,870e020f,https://fbref.com/en/squads/870e020f/history/Uruguay-Men-Stats-and-History
+Nacional (M),26ebba72,https://fbref.com/en/squads/26ebba72/history/Nacional-Stats-and-History
+Peñarol (M),e2d73ee6,https://fbref.com/en/squads/e2d73ee6/history/Penarol-Stats-and-History
+Defensor Sporting (M),563b8846,https://fbref.com/en/squads/563b8846/history/Defensor-Sporting-Stats-and-History
+Montevideo Wanderers (M),81476932,https://fbref.com/en/squads/81476932/history/Montevideo-Wanderers-Stats-and-History
+Liverpool (M),e87167c6,https://fbref.com/en/squads/e87167c6/history/Liverpool-Stats-and-History
+River Plate (M),9ae9b58c,https://fbref.com/en/squads/9ae9b58c/history/River-Plate-Stats-and-History
+Men,df384984,https://fbref.com/en/squads/df384984/history/Venezuela-Men-Stats-and-History
+Women,3c0ffb3d,https://fbref.com/en/squads/3c0ffb3d/history/Venezuela-Women-Stats-and-History
+Deportivo Táchira (M),7701ed02,https://fbref.com/en/squads/7701ed02/history/Deportivo-Tachira-Stats-and-History
+Caracas (M),2583cf18,https://fbref.com/en/squads/2583cf18/history/Caracas-Stats-and-History
+Deportivo La Guaira (M),0f8ef17f,https://fbref.com/en/squads/0f8ef17f/history/Deportivo-La-Guaira-Stats-and-History
+Carabobo (M),90e07850,https://fbref.com/en/squads/90e07850/history/Carabobo-Stats-and-History
+Zamora (M),bcdc5828,https://fbref.com/en/squads/bcdc5828/history/Zamora-Stats-and-History
+Estudiantes de Mérida (M),dcbc2e42,https://fbref.com/en/squads/dcbc2e42/history/Estudiantes-de-Merida-Stats-and-History
+Men,b1bbcad3,https://fbref.com/en/squads/b1bbcad3/history/Wales-Men-Stats-and-History
+Women,f4adb447,https://fbref.com/en/squads/f4adb447/history/Wales-Women-Stats-and-History
+The New Saints FC (M),fd12ff13,https://fbref.com/en/squads/fd12ff13/history/The-New-Saints-FC-Stats-and-History
+Barry Town United FC (M),d8760be1,https://fbref.com/en/squads/d8760be1/history/Barry-Town-United-FC-Stats-and-History
+Cardiff Metropolitan (F),8f366bba,https://fbref.com/en/squads/8f366bba/history/Cardiff-Metropolitan-Women-Stats-and-History
+Llanelli AFC (M),ae449364,https://fbref.com/en/squads/ae449364/history/Llanelli-AFC-Stats-and-History
+Connah's Quay Nomads (M),7d326cbe,https://fbref.com/en/squads/7d326cbe/history/Connahs-Quay-Nomads-Stats-and-History
+Bala Town FC (M),56b45f69,https://fbref.com/en/squads/56b45f69/history/Bala-Town-FC-Stats-and-History
+Barcelona (F),15f49df1,https://fbref.com/en/squads/15f49df1/Barcelona-Women-Stats
+Paris Saint-Germain (M),e2d8892c,https://fbref.com/en/squads/e2d8892c/Paris-Saint-Germain-Stats
+Bayern Munich (F),51ec22be,https://fbref.com/en/squads/51ec22be/Bayern-Munich-Women-Stats
+AS Roma (F),02f8d026,https://fbref.com/en/squads/02f8d026/AS-Roma-Stats
+Boca Juniors (M),795ca75e,https://fbref.com/en/squads/795ca75e/Boca-Juniors-Stats
+Melbourne City (M),31553c94,https://fbref.com/en/squads/31553c94/Melbourne-City-Stats
+Melbourne City (F),6082332e,https://fbref.com/en/squads/6082332e/Melbourne-City-Women-Stats
+Sturm Graz (M),3f4fe568,https://fbref.com/en/squads/3f4fe568/Sturm-Graz-Stats
+St. Pölten (F),3d377a8c,https://fbref.com/en/squads/3d377a8c/St-Polten-Women-Stats
+Union SG (M),e14f61a5,https://fbref.com/en/squads/e14f61a5/Union-SG-Stats
+OH Leuven (F),696ced1d,https://fbref.com/en/squads/696ced1d/OH-Leuven-Women-Stats
+Bolívar (M),e69cb5b6,https://fbref.com/en/squads/e69cb5b6/Bolivar-Stats
+Palmeiras (M),abdce579,https://fbref.com/en/squads/abdce579/Palmeiras-Stats
+Corinthians (F),9cdc3b24,https://fbref.com/en/squads/9cdc3b24/Corinthians-Women-Stats
+Ludogorets Razgrad (M),488c6ba1,https://fbref.com/en/squads/488c6ba1/Ludogorets-Razgrad-Stats
+Forge FC (M),8514c671,https://fbref.com/en/squads/8514c671/Forge-FC-Stats
+Colo-Colo (M),2ff539f3,https://fbref.com/en/squads/2ff539f3/Colo-Colo-Stats
+Shanghai Port (M),c48512d3,https://fbref.com/en/squads/c48512d3/Shanghai-Port-Stats
+Atlético Nacional (M),e0b973a6,https://fbref.com/en/squads/e0b973a6/Atletico-Nacional-Stats
+Dinamo Zagreb (M),edd0d381,https://fbref.com/en/squads/edd0d381/Dinamo-Zagreb-Stats
+Slavia Prague (M),111cbfb1,https://fbref.com/en/squads/111cbfb1/Slavia-Prague-Stats
+Midtjylland (M),3c4fb635,https://fbref.com/en/squads/3c4fb635/Midtjylland-Stats
+HB Køge (F),b00041f6,https://fbref.com/en/squads/b00041f6/HB-Koge-Stats
+Independiente del Valle (M),990519b8,https://fbref.com/en/squads/990519b8/Independiente-del-Valle-Stats
+Olympiacos (M),2fdb4aef,https://fbref.com/en/squads/2fdb4aef/Olympiacos-Stats
+Ferencváros (M),6611f992,https://fbref.com/en/squads/6611f992/Ferencvaros-Stats
+Mohun Bagan (M),5c7eb1c7,https://fbref.com/en/squads/5c7eb1c7/Mohun-Bagan-Stats
+Kashima Antlers (M),dd694b37,https://fbref.com/en/squads/dd694b37/Kashima-Antlers-Stats
+Kobe Leonessa (F),71dc1b0b,https://fbref.com/en/squads/71dc1b0b/Kobe-Leonessa-Stats
+Ulsan HD (M),4372a20b,https://fbref.com/en/squads/4372a20b/Ulsan-HD-Stats
+Al-Hilal (M),972e2539,https://fbref.com/en/squads/972e2539/Al-Hilal-Stats
+América (M),18d3c3a3,https://fbref.com/en/squads/18d3c3a3/America-Stats
+PSV Eindhoven (M),e334d850,https://fbref.com/en/squads/e334d850/PSV-Eindhoven-Stats
+Twente (F),e04b1b89,https://fbref.com/en/squads/e04b1b89/Twente-Women-Stats
+Bodø/Glimt (M),d86248bd,https://fbref.com/en/squads/d86248bd/BodoGlimt-Stats
+Brann (F),ea339fbc,https://fbref.com/en/squads/ea339fbc/Brann-Women-Stats
+Cerro Porteño (M),e4cd6f9a,https://fbref.com/en/squads/e4cd6f9a/Cerro-Porteno-Stats
+Universitario (M),e4108102,https://fbref.com/en/squads/e4108102/Universitario-Stats
+Lech Poznań (M),fdba14df,https://fbref.com/en/squads/fdba14df/Lech-Poznan-Stats
+Sporting CP (M),13dc44fd,https://fbref.com/en/squads/13dc44fd/Sporting-CP-Stats
+CS Universitatea Craiova (M),1eebf7c3,https://fbref.com/en/squads/1eebf7c3/CS-Universitatea-Craiova-Stats
+Mamelodi Sundowns (M),97d80fef,https://fbref.com/en/squads/97d80fef/Mamelodi-Sundowns-Stats
+Zenit (M),98ce363d,https://fbref.com/en/squads/98ce363d/Zenit-Stats
+Celtic (M),b81aa4fa,https://fbref.com/en/squads/b81aa4fa/Celtic-Stats
+Red Star (M),099c6eb5,https://fbref.com/en/squads/099c6eb5/Red-Star-Stats
+Lugano (M),4dcf77da,https://fbref.com/en/squads/4dcf77da/Lugano-Stats
+Servette (F),e83b563b,https://fbref.com/en/squads/e83b563b/Servette-Stats
+Hammarby (M),92bfd7f0,https://fbref.com/en/squads/92bfd7f0/Hammarby-Stats
+BK Häcken (F),89f584e1,https://fbref.com/en/squads/89f584e1/BK-Hacken-Women-Stats
+Galatasaray (M),ecd11ca2,https://fbref.com/en/squads/ecd11ca2/Galatasaray-Stats
+Shakhtar Donetsk (M),e89d5a28,https://fbref.com/en/squads/e89d5a28/Shakhtar-Donetsk-Stats
+Peñarol (M),e2d73ee6,https://fbref.com/en/squads/e2d73ee6/Penarol-Stats
+Inter Miami (M),cb8b86a2,https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats
+Kansas City Current (F),6f666306,https://fbref.com/en/squads/6f666306/Kansas-City-Current-Stats
+Deportivo Táchira (M),7701ed02,https://fbref.com/en/squads/7701ed02/Deportivo-Tachira-Stats
